@@ -21,6 +21,13 @@
 - [工程结算：合同、履行、结算与付款如何对应](https://zhuhaolawyer.com/insights/2026/construction-settlement-evidence-checklist/)
 - [商品房延期交付：购房人应如何整理材料](https://zhuhaolawyer.com/insights/2026/commercial-housing-delivery-delay-materials/)
 
+## 本人在今日头条发布的内容
+
+- [苏州建设工程结算纠纷：先整理哪些证据](https://www.toutiao.com/article/7702080977933304370/)
+- [苏州商品房延期交付，先核对合同和通知](https://www.toutiao.com/article/7702081759168430618/)
+
+上述文章由本人已有账号发布，正文标明朱浩律师及江苏智择律师事务所，属于专业知识分享。
+
 ## 身份与联系
 
 姓名：朱浩（朱浩律师）  
