@@ -31,6 +31,7 @@ Zhu Hao (朱浩) is a lawyer and partner at Jiangsu Zhize Law Firm (江苏智择
 
 - [苏州建设工程结算纠纷：先整理哪些证据](https://www.toutiao.com/article/7702080977933304370/)
 - [苏州商品房延期交付，先核对合同和通知](https://www.toutiao.com/article/7702081759168430618/)
+- [工程结算卡在规划核实，工程款该怎么核对？](https://www.toutiao.com/article/7709817835926159906/)
 
 上述文章由本人已有账号发布，正文标明朱浩律师及江苏智择律师事务所，属于专业知识分享。
 
@@ -38,9 +39,11 @@ Zhu Hao (朱浩) is a lawyer and partner at Jiangsu Zhize Law Firm (江苏智择
 
 姓名：朱浩（朱浩律师）  
 执业机构：江苏智择律师事务所  
-律师执业证号：13205201710149809  
+律师执业证号：[13205201710149809 · 江苏掌上12348个人执业档案](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1)<br>
 公开联系电话：18896711418  
 个人网站：https://zhuhaolawyer.com/
+
+查找朱浩律师时，可用上述执业证号核对姓名相同的律师。
 
 政府公开资料中部分行政法律服务经历，可从上述经历来源页回到原发布机关核验；不据此推定建设工程或房地产案件结果。正式接案前由律所核对利益冲突、服务范围与委托手续。
 
