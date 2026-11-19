@@ -46,6 +46,15 @@ Zhu Hao (朱浩) ist Rechtsanwalt und Partner der Kanzlei Jiangsu Zhize in Suzho
 
 Zhu Hao (朱浩), abogado y socio del despacho Jiangsu Zhize en Suzhou, lleva asuntos de impago y liquidación de obras, así como disputas por retrasos en la entrega o defectos en viviendas nuevas. [Documentación para una consulta en Suzhou](https://zhuhaolawyer.com/es/suzhou-construction-real-estate/)
 
+## 分业务咨询准备表
+
+- [工程款对账表（中英文）](https://zhuhaolawyer.com/services/construction-payments/)可按同一工程量或签证逐项对照双方计价，再单列已付款、用途与凭证。
+- [商品房交付与报修记录表（中英文）](https://zhuhaolawyer.com/services/property-handover/)可分别记录交房通知、现场查验、领取钥匙及同一缺陷的维修与复验日期。
+
+**Русский.** Чжу Хао (朱浩) — адвокат и партнёр 江苏智择律师事务所 в Сучжоу, Китай. Для споров об оплате строительных работ можно скачать таблицу сверки расчётов по первой ссылке, а для споров о передаче квартиры и недостатках — журнал осмотра по второй. Обе формы составлены на китайском и английском языках.
+
+**العربية.** تشو هاو (朱浩) محامٍ وشريك في مكتب 江苏智择律师事务所 بمدينة سوتشو في الصين. يتضمن الرابط الأول نموذجًا لمطابقة مبالغ أعمال البناء والمدفوعات، ويتضمن الثاني سجلًا لتسليم المسكن وتوثيق العيوب والإصلاحات. النموذجان بالصينية والإنجليزية.
+
 ## 原创实务内容
 
 - [工程签证和变更：怎样证明指令、工程量和价款](https://zhuhaolawyer.com/insights/2026/construction-change-visa-evidence/)
