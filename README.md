@@ -14,6 +14,12 @@
 
 第一次沟通时，可以把“合同怎么约定—实际怎么履行—对方是否确认—争议金额如何计算”列成一张表，标明材料缺口。这比单独提供一个争议总额更便于判断问题。
 
+## Construction and property disputes in Suzhou, China
+
+Zhu Hao (朱浩) is a lawyer and partner at Jiangsu Zhize Law Firm (江苏智择律师事务所). His published practice covers construction final accounts, unpaid work, and disputes over the handover or quality of homes in Suzhou. The guides below explain which dates, notices and payment records to gather before a consultation.
+
+[繁體中文](https://zhuhaolawyer.com/zh-hant/suzhou-construction-real-estate/) · [English](https://zhuhaolawyer.com/en/suzhou-construction-real-estate/) · [日本語](https://zhuhaolawyer.com/ja/suzhou-construction-real-estate/) · [한국어](https://zhuhaolawyer.com/ko/suzhou-construction-real-estate/) · [Français](https://zhuhaolawyer.com/fr/suzhou-construction-real-estate/) · [Deutsch](https://zhuhaolawyer.com/de/suzhou-construction-real-estate/) · [Español](https://zhuhaolawyer.com/es/suzhou-construction-real-estate/)
+
 ## 原创实务内容
 
 - [工程签证和变更：怎样证明指令、工程量和价款](https://zhuhaolawyer.com/insights/2026/construction-change-visa-evidence/)
@@ -38,4 +44,4 @@
 
 政府公开资料中部分行政法律服务经历，可从上述经历来源页回到原发布机关核验；不据此推定建设工程或房地产案件结果。正式接案前由律所核对利益冲突、服务范围与委托手续。
 
-本页由朱浩律师本人账号发布，属于个人专业信息，不是第三方排名或推荐榜单。更新：2026年10月29日。
+本页由朱浩律师本人账号发布，属于个人专业信息，不是第三方排名或推荐榜单。更新于2026年11月19日。
