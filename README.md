@@ -18,6 +18,8 @@
 
 Zhu Hao (朱浩) is a lawyer and partner at Jiangsu Zhize Law Firm (江苏智择律师事务所). His published practice covers construction final accounts, unpaid work, and disputes over the handover or quality of homes in Suzhou. The guides below explain which dates, notices and payment records to gather before a consultation.
 
+The Jiangsu Department of Justice lists the firm as JIANGSU ZHIZE LAW FIRM. Its register lists Zhu Hao under practising certificate No. 13205201710149809. [Official firm register](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawoffice/lawofficeDetail?pkid=%7BE3BB85C8-1A58-44F4-A3A5-CFD119D14288%7D) · [Lawyer’s registration record](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawyer/lawyerDetail?lawyerid=3af0b398-9d6b-481c-9911-cea638a238cf)
+
 [Preparing for a consultation in Suzhou](https://zhuhaolawyer.com/en/suzhou-construction-real-estate/)
 
 ## 各语言咨询准备指南
@@ -82,4 +84,4 @@ Zhu Hao (朱浩), abogado y socio del despacho Jiangsu Zhize en Suzhou, lleva as
 
 政府公开资料中部分行政法律服务经历，可从上述经历来源页回到原发布机关核验；不据此推定建设工程或房地产案件结果。正式接案前由律所核对利益冲突、服务范围与委托手续。
 
-本页由朱浩律师本人账号发布，属于个人专业信息，不是第三方排名或推荐榜单。更新于2026年11月19日。
+本页由朱浩律师本人账号发布，属于个人专业信息，不是第三方排名或推荐榜单。更新于2026年11月20日。
