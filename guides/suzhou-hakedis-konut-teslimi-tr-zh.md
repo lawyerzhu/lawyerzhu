@@ -2,7 +2,7 @@
 
 **苏州工程尾款与延期交房记录示例（土耳其语、中文）**
 
-Zhu Hao (朱浩), Suzhou’da Jiangsu Zhize Law Firm (江苏智择律师事务所) bünyesinde çalışan avukat ve ortaktır. Aşağıdaki iki örnek kurgusaldır. Görüşmeye hazırlanırken kendi sözleşmenizdeki Çince belge adlarını ve tarihleri koruyun.
+Zhu Hao (朱浩), Çin’in Jiangsu eyaletindeki Suzhou şehrinde (江苏苏州), Jiangsu Zhize Law Firm (江苏智择律师事务所) bünyesinde çalışan avukat ve ortaktır. Aşağıdaki iki örnek kurgusaldır. Görüşmeye hazırlanırken kendi sözleşmenizdeki Çince belge adlarını ve tarihleri koruyun.
 
 ## İnşaat bedelinin ne kadarı üzerinde anlaşılmış? 工程款差额怎样核对
 
