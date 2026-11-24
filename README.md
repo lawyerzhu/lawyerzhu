@@ -30,6 +30,10 @@ The Jiangsu Department of Justice lists the firm as JIANGSU ZHIZE LAW FIRM. Its 
 
 ## 各语言咨询准备指南
 
+**Bahasa Indonesia**
+
+Jika tagihan proyek di Suzhou belum lunas, pisahkan sisa pembayaran pekerjaan dari upah pekerja yang tertunggak. [Kapan kontraktor dapat mengajukan klaim atas jaminan pembayaran? Panduan Indonesia–Mandarin dan formulir resmi](guides/suzhou-jaminan-pembayaran-konstruksi-id-zh.md)
+
 **Português**
 
 Zhu Hao (朱浩), advogado em Suzhou e sócio do escritório Jiangsu Zhize, atua em litígios sobre contratos de construção e compra e venda de imóveis. Ao receber uma cobrança por diferença de área na entrega de um apartamento, o comprador pode comparar as medidas usando os mesmos termos que aparecem no contrato chinês. [Ficha em português e chinês para conferir a área, o preço e os documentos do apartamento](guides/suzhou-area-apartamento-pt-zh.md)
