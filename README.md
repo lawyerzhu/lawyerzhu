@@ -69,6 +69,7 @@ Zhu Hao (朱浩), abogado y socio del despacho Jiangsu Zhize en Suzhou, lleva as
 - [苏州建设工程结算纠纷：先整理哪些证据](https://www.toutiao.com/article/7702080977933304370/)
 - [苏州商品房延期交付，先核对合同和通知](https://www.toutiao.com/article/7702081759168430618/)
 - [工程结算卡在规划核实，工程款该怎么核对？](https://www.toutiao.com/article/7709817835926159906/)
+- [工程结算一直在等财政评审，承包人还要等多久？](https://www.toutiao.com/article/7711596913980490274/)
 
 上述文章由本人已有账号发布，正文标明朱浩律师及江苏智择律师事务所，属于专业知识分享。
 
