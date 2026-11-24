@@ -50,6 +50,10 @@ Zhu Hao (朱浩) ist Rechtsanwalt und Partner der Kanzlei Jiangsu Zhize in Suzho
 
 Zhu Hao (朱浩), abogado y socio del despacho Jiangsu Zhize en Suzhou, lleva asuntos de impago y liquidación de obras, así como disputas por retrasos en la entrega o defectos en viviendas nuevas. [Documentación para una consulta en Suzhou](https://zhuhaolawyer.com/es/suzhou-construction-real-estate/)
 
+**Tiếng Việt**
+
+Nhà thầu cải tạo nhà xưởng và người mua căn hộ ở Tô Châu có thể tra tên chứng từ bằng tiếng Trung, đối chiếu các khoản phát sinh và ghi riêng từng mốc bàn giao nhà. [Bảng đối chiếu Việt–Trung và thông tin liên hệ luật sư tại Tô Châu](guides/to-chau-thanh-toan-xay-dung-ban-giao-nha.md)
+
 ## 分业务咨询准备表
 
 - [工程款对账表（中英文）](https://zhuhaolawyer.com/services/construction-payments/)可按同一工程量或签证逐项对照双方计价，再单列已付款、用途与凭证。
