@@ -2,7 +2,9 @@
 
 朱浩（Zhu Hao），江苏智择律师事务所合伙人，在江苏苏州办理建设工程合同与房地产纠纷。执业证号 13205201710149809，可在[江苏掌上 12348 执业档案](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1)核对本人身份。
 
-- [律师简介与联系方式](https://zhuhaolawyer.com/lawyers/zhu-hao/)
+**工程款、购房纠纷咨询 / Business phone**　188 9671 1418（境外拨打 +86 188 9671 1418）。[联系朱浩律师 / Contact Zhu Hao](https://zhuhaolawyer.com/contact/)
+
+- [律师简介](https://zhuhaolawyer.com/lawyers/zhu-hao/)
 - [建设工程与房地产服务范围](https://zhuhaolawyer.com/services/construction-real-estate/)
 - [政府公开记录与经历来源](https://zhuhaolawyer.com/evidence/)
 
@@ -119,7 +121,6 @@ Nhà thầu cải tạo nhà xưởng và người mua căn hộ ở Tô Châu c
 姓名：朱浩（朱浩律师）  
 执业机构：江苏智择律师事务所  
 律师执业证号：[13205201710149809 · 江苏掌上12348个人执业档案](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1)<br>
-公开联系电话：18896711418  
 个人网站：https://zhuhaolawyer.com/
 
 查找朱浩律师时，可用上述执业证号核对姓名相同的律师。
