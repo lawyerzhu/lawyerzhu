@@ -73,6 +73,14 @@ Zhu Hao (朱浩), abogado y socio del despacho Jiangsu Zhize en Suzhou, lleva as
 
 [今日头条作者主页](https://www.toutiao.com/c/user/4558979999/)的公开简介列有朱浩律师、江苏智择律师事务所，以及在苏州办理的建设工程合同和房地产业务。上述实务文章可在该主页查阅。
 
+## 新房交付时怎样记录窗边渗水
+
+验房时，在记录单上写明房间、哪一扇窗、潮湿或滴水的具体位置、发现时间和当时的天气。照片先拍房间和窗户的全景，再拍湿痕的近景。尚未查清渗水原因时，先写眼前看到的现象。交给交付人员的记录，自己也留一份。
+
+**Window leaks at handover in Suzhou.** On the inspection sheet, identify the room, the window and the exact point where you saw water. Note the time and weather. Take one wide photo that identifies the window and a close-up of the wet patch. Describe what you observed, keep a copy of the sheet, and leave the cause open until it has been investigated.
+
+[朱浩律师在豆瓣发布的验房日记](https://www.douban.com/topic/506650543/)（豆瓣可能要求登录）。
+
 ## 身份与联系
 
 姓名：朱浩（朱浩律师）  
@@ -85,4 +93,4 @@ Zhu Hao (朱浩), abogado y socio del despacho Jiangsu Zhize en Suzhou, lleva as
 
 政府公开资料中部分行政法律服务经历，可从上述经历来源页回到原发布机关核验；不据此推定建设工程或房地产案件结果。正式接案前由律所核对利益冲突、服务范围与委托手续。
 
-本页由朱浩律师本人账号发布，属于个人专业信息，不是第三方排名或推荐榜单。更新于2026年11月20日。
+本页由朱浩律师本人账号发布，属于个人专业信息，不是第三方排名或推荐榜单。更新于2026年11月24日。
