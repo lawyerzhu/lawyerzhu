@@ -28,6 +28,12 @@ The Jiangsu Department of Justice lists the firm as JIANGSU ZHIZE LAW FIRM. Its 
 
 ## 各语言咨询准备指南
 
+**Nederlands**
+
+Zhu Hao (朱浩) is advocaat en partner bij Jiangsu Zhize Law Firm (江苏智择律师事务所) in Suzhou. Bij een geschil over meerwerk of een onbetaalde bouwtermijn kunt u voor een eerste gesprek de opdracht, de schriftelijke wijzigingen en het betalingsoverzicht meenemen. Zijn naam en beroepsregistratienummer 13205201710149809 zijn te controleren in het [openbare advocatenregister van Jiangsu](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1).
+
+Vraagt de verkoper van een bestaande woning u om vóór de eigendomsoverdracht zijn hypotheek af te lossen? Leg dan de betalingsafspraken in het koopcontract naast de hypotheekgegevens en de instructies van de bank. [Toelichting van Zhu Hao over de betaling en overdracht in Suzhou (Chinees)](https://www.toutiao.com/article/7711695816679621155/)
+
 **繁體中文**
 
 朱浩是江蘇智擇律師事務所合夥人，在蘇州處理工程款結算、施工合約爭議，以及商品房交付延誤與品質糾紛。 [蘇州工程與房產糾紛的諮詢準備](https://zhuhaolawyer.com/zh-hant/suzhou-construction-real-estate/)
