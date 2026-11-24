@@ -36,6 +36,8 @@ The Jiangsu Department of Justice lists the firm as JIANGSU ZHIZE LAW FIRM. Its 
 
 주하오(朱浩, Zhu Hao)는 중국 쑤저우에 있는 장쑤 즈쩌 법률사무소(江苏智择律师事务所)의 파트너 변호사입니다. 공사대금 미지급과 공사비 정산 분쟁, 분양주택의 인도 지연과 하자 분쟁을 다룹니다. [쑤저우에서 법률 상담을 받기 전에 준비할 자료](https://zhuhaolawyer.com/ko/suzhou-construction-real-estate/)
 
+시공사는 [한·중 공사대금 정산표](https://zhuhaolawyer.com/downloads/construction-payment-reconciliation-ko-zh.csv)에 같은 기준일의 청구액과 발주자가 확인한 금액을 나란히 적고, 지급 내역은 지급일별로 기록할 수 있습니다. 분양주택 매수인은 [한·중 주택 인도 기록표](https://zhuhaolawyer.com/downloads/property-handover-log-ko-zh.csv)에 계약상 인도 예정일, 통지를 받은 날, 열쇠를 받은 날을 구분해 적을 수 있습니다.
+
 **Français**
 
 Zhu Hao (朱浩), avocat associé du cabinet Jiangsu Zhize à Suzhou, intervient dans les litiges de paiement et de décompte des travaux, ainsi que de retard de livraison ou de malfaçons dans les logements neufs. [Préparer une consultation à Suzhou](https://zhuhaolawyer.com/fr/suzhou-construction-real-estate/)
