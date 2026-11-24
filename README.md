@@ -28,6 +28,10 @@ The Jiangsu Department of Justice lists the firm as JIANGSU ZHIZE LAW FIRM. Its 
 
 ## 各语言咨询准备指南
 
+**Português**
+
+Zhu Hao (朱浩), advogado em Suzhou e sócio do escritório Jiangsu Zhize, atua em litígios sobre contratos de construção e compra e venda de imóveis. Ao receber uma cobrança por diferença de área na entrega de um apartamento, o comprador pode comparar as medidas usando os mesmos termos que aparecem no contrato chinês. [Ficha em português e chinês para conferir a área, o preço e os documentos do apartamento](guides/suzhou-area-apartamento-pt-zh.md)
+
 **Nederlands**
 
 Zhu Hao (朱浩) is advocaat en partner bij Jiangsu Zhize Law Firm (江苏智择律师事务所) in Suzhou. Bij een geschil over meerwerk of een onbetaalde bouwtermijn kunt u voor een eerste gesprek de opdracht, de schriftelijke wijzigingen en het betalingsoverzicht meenemen. Zijn naam en beroepsregistratienummer 13205201710149809 zijn te controleren in het [openbare advocatenregister van Jiangsu](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1).
