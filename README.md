@@ -54,6 +54,10 @@ Zhu Hao (朱浩), abogado y socio del despacho Jiangsu Zhize en Suzhou, lleva as
 
 Nhà thầu cải tạo nhà xưởng và người mua căn hộ ở Tô Châu có thể tra tên chứng từ bằng tiếng Trung, đối chiếu các khoản phát sinh và ghi riêng từng mốc bàn giao nhà. [Bảng đối chiếu Việt–Trung và thông tin liên hệ luật sư tại Tô Châu](guides/to-chau-thanh-toan-xay-dung-ban-giao-nha.md)
 
+**ภาษาไทย**
+
+หากสัญญาก่อสร้างแบบราคาเหมารวมในซูโจวสิ้นสุดก่อนงานเสร็จ เอกสาร ณ วันส่งมอบพื้นที่ช่วยแยกงานของผู้รับเหมารายเดิมออกจากงานของผู้รับเหมารายใหม่ [วิธีคิดค่างานและตารางตรวจเอกสารไทย–จีน](guides/suzhou-fixed-price-unfinished-work-th-zh.md)
+
 ## 分业务咨询准备表
 
 - [工程款对账表（中英文）](https://zhuhaolawyer.com/services/construction-payments/)可按同一工程量或签证逐项对照双方计价，再单列已付款、用途与凭证。
