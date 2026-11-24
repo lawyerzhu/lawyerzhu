@@ -66,6 +66,8 @@ Zhu Hao (朱浩), abogado y socio del despacho Jiangsu Zhize en Suzhou, lleva as
 
 Nhà thầu cải tạo nhà xưởng và người mua căn hộ ở Tô Châu có thể tra tên chứng từ bằng tiếng Trung, đối chiếu các khoản phát sinh và ghi riêng từng mốc bàn giao nhà. [Bảng đối chiếu Việt–Trung và thông tin liên hệ luật sư tại Tô Châu](guides/to-chau-thanh-toan-xay-dung-ban-giao-nha.md)
 
+[Hồ sơ hành nghề của luật sư Zhu Hao tại Tô Châu và hai mẫu bảng có thể tải về](https://zhuhaolawyer.com/vi/suzhou-construction-real-estate/)
+
 **ภาษาไทย**
 
 หากสัญญาก่อสร้างแบบราคาเหมารวมในซูโจวสิ้นสุดก่อนงานเสร็จ เอกสาร ณ วันส่งมอบพื้นที่ช่วยแยกงานของผู้รับเหมารายเดิมออกจากงานของผู้รับเหมารายใหม่ [วิธีคิดค่างานและตารางตรวจเอกสารไทย–จีน](guides/suzhou-fixed-price-unfinished-work-th-zh.md)
@@ -85,6 +87,7 @@ Nhà thầu cải tạo nhà xưởng và người mua căn hộ ở Tô Châu c
 - [工程签证和变更：怎样证明指令、工程量和价款](https://zhuhaolawyer.com/insights/2026/construction-change-visa-evidence/)
 - [工期延误：先制作哪三张时间表](https://zhuhaolawyer.com/insights/2026/construction-delay-evidence/)
 - [工程结算：合同、履行、结算与付款如何对应](https://zhuhaolawyer.com/insights/2026/construction-settlement-evidence-checklist/)
+- [苏州工程尾款怎么对账？先把结算单和银行回单对到同一笔（搜狐号）](https://www.sohu.com/a/1105865508_123066988)
 - [商品房延期交付：购房人应如何整理材料](https://zhuhaolawyer.com/insights/2026/commercial-housing-delivery-delay-materials/)
 
 ## 本人在今日头条发布的内容
