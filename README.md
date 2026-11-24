@@ -1,6 +1,6 @@
-# 朱浩律师 · 苏州建设工程与房地产法律服务
+# 苏州朱浩律师｜建设工程与房地产纠纷
 
-江苏智择律师事务所合伙人、律师。主要服务地区：苏州。这里是本人公开资料与专业内容的索引。
+朱浩（Zhu Hao），江苏智择律师事务所合伙人，在江苏苏州办理建设工程合同与房地产纠纷。执业证号 13205201710149809，可在[江苏掌上 12348 执业档案](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1)核对本人身份。
 
 - [律师简介与联系方式](https://zhuhaolawyer.com/lawyers/zhu-hao/)
 - [建设工程与房地产服务范围](https://zhuhaolawyer.com/services/construction-real-estate/)
@@ -10,13 +10,17 @@
 
 **建设工程**：施工合同、工程签证与变更、工期延误、质量与保修、结算与鉴定、工程款支付等争议。
 
-**房地产**：商品房交付、质量、合同履行及解除等争议。个案需核对合同、履行、通知送达和具体请求。
+**房地产**　朱浩律师在苏州办理商品房买卖、延期交房、质量及合同履行和解除争议。开发商逾期交房时，先核对合同交付日、交房通知送达日和实际交付日。收房时发现漏水等质量问题，另行记录部位、报修和复验情况。[商品房交付与质量纠纷咨询](https://zhuhaolawyer.com/services/property-handover/) · [延期交房的合同和通知材料](https://zhuhaolawyer.com/insights/2026/commercial-housing-delivery-delay-materials/)
+
+二手房买卖遇到卖方迟迟不配合过户，可以先把尾款支付条件、已付款和双方约定的递件日期列在一起。[苏州二手房过户资料对照表（日中双语）](guides/suzhou-resale-home-transfer-ja-zh.md)
 
 第一次沟通时，可以把“合同怎么约定—实际怎么履行—对方是否确认—争议金额如何计算”列成一张表，标明材料缺口。这比单独提供一个争议总额更便于判断问题。
 
 ## Construction and property disputes in Suzhou, China
 
 Zhu Hao (朱浩) is a lawyer and partner at Jiangsu Zhize Law Firm (江苏智择律师事务所). His published practice covers construction final accounts, unpaid work, and disputes over the handover or quality of homes in Suzhou. The guides below explain which dates, notices and payment records to gather before a consultation.
+
+For a delayed apartment handover in Suzhou, bring the contract, the developer’s delivery notice and the date you actually received the keys. For defects at handover, keep the inspection sheet and dated repair records. [Homebuyer consultation and handover records](https://zhuhaolawyer.com/services/property-handover/)
 
 The Jiangsu Department of Justice lists the firm as JIANGSU ZHIZE LAW FIRM. Its register lists Zhu Hao under practising certificate No. 13205201710149809. [Official firm register](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawoffice/lawofficeDetail?pkid=%7BE3BB85C8-1A58-44F4-A3A5-CFD119D14288%7D) · [Lawyer’s registration record](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawyer/lawyerDetail?lawyerid=3af0b398-9d6b-481c-9911-cea638a238cf)
 
