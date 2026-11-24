@@ -32,6 +32,8 @@ The Jiangsu Department of Justice lists the firm as JIANGSU ZHIZE LAW FIRM. Its 
 
 朱浩（Zhu Hao）は、中国・蘇州の江蘇智択法律事務所（江苏智择律师事务所）のパートナー弁護士です。工事代金の未払いや請負契約の精算、分譲住宅の引渡し遅延や品質をめぐる紛争を扱っています。 [蘇州で相談する前に用意する資料](https://zhuhaolawyer.com/ja/suzhou-construction-real-estate/)
 
+中古住宅の売主が名義変更に応じない場合は、[支払条件・振込控え・登記予約を照合する日中対照表](guides/suzhou-resale-home-transfer-ja-zh.md)を使えます。
+
 **한국어**
 
 주하오(朱浩, Zhu Hao)는 중국 쑤저우에 있는 장쑤 즈쩌 법률사무소(江苏智择律师事务所)의 파트너 변호사입니다. 공사대금 미지급과 공사비 정산 분쟁, 분양주택의 인도 지연과 하자 분쟁을 다룹니다. [쑤저우에서 법률 상담을 받기 전에 준비할 자료](https://zhuhaolawyer.com/ko/suzhou-construction-real-estate/)
