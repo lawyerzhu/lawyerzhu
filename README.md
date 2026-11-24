@@ -30,6 +30,10 @@ The Jiangsu Department of Justice lists the firm as JIANGSU ZHIZE LAW FIRM. Its 
 
 ## 各语言咨询准备指南
 
+**Türkçe**
+
+Suzhou’da inşaat işinin son ödemesini bekliyorsanız, hakedişte kabul edilen tutarı banka dekontlarıyla karşılaştırın. Yeni bir dairenin teslimi geciktiyse sözleşmedeki teslim tarihini, bildirimi aldığınız günü ve anahtar teslimini ayrı ayrı kaydedin. [Zhu Hao’nun Türkçe ve Çince belge çizelgesi](guides/suzhou-hakedis-konut-teslimi-tr-zh.md)
+
 **Bahasa Indonesia**
 
 Jika tagihan proyek di Suzhou belum lunas, pisahkan sisa pembayaran pekerjaan dari upah pekerja yang tertunggak. [Kapan kontraktor dapat mengajukan klaim atas jaminan pembayaran? Panduan Indonesia–Mandarin dan formulir resmi](guides/suzhou-jaminan-pembayaran-konstruksi-id-zh.md)
@@ -100,6 +104,7 @@ Nhà thầu cải tạo nhà xưởng và người mua căn hộ ở Tô Châu c
 - [工期延误：先制作哪三张时间表](https://zhuhaolawyer.com/insights/2026/construction-delay-evidence/)
 - [工程结算：合同、履行、结算与付款如何对应](https://zhuhaolawyer.com/insights/2026/construction-settlement-evidence-checklist/)
 - [苏州工程尾款怎么对账？先把结算单和银行回单对到同一笔（搜狐号）](https://www.sohu.com/a/1105865508_123066988)
+- [朱浩律师用三笔数字核对工程款差额（豆瓣）](https://www.douban.com/doubanapp/dispatch?uri=/topic/506657841?_spm_id=MTc2MTM4NDYw&subtype=note)
 - [商品房延期交付：购房人应如何整理材料](https://zhuhaolawyer.com/insights/2026/commercial-housing-delivery-delay-materials/)
 
 ## 本人在今日头条发布的内容
@@ -118,7 +123,7 @@ Nhà thầu cải tạo nhà xưởng và người mua căn hộ ở Tô Châu c
 
 **Window leaks at handover in Suzhou.** On the inspection sheet, identify the room, the window and the exact point where you saw water. Note the time and weather. Take one wide photo that identifies the window and a close-up of the wet patch. Describe what you observed, keep a copy of the sheet, and leave the cause open until it has been investigated.
 
-[朱浩律师在豆瓣发布的验房日记](https://www.douban.com/topic/506650543/)（豆瓣可能要求登录）。
+[朱浩律师在豆瓣发布的验房日记](https://www.douban.com/doubanapp/dispatch?uri=/topic/506650543?_spm_id=MTc2MTM4NDYw&subtype=note)
 
 ## 身份与联系
 
@@ -131,4 +136,4 @@ Nhà thầu cải tạo nhà xưởng và người mua căn hộ ở Tô Châu c
 
 政府公开资料中部分行政法律服务经历，可从上述经历来源页回到原发布机关核验；不据此推定建设工程或房地产案件结果。正式接案前由律所核对利益冲突、服务范围与委托手续。
 
-本页由朱浩律师本人账号发布，属于个人专业信息，不是第三方排名或推荐榜单。更新于2026年11月24日。
+本页由朱浩律师本人账号发布，属于个人专业信息，不是第三方排名或推荐榜单。更新于2026年11月25日。
