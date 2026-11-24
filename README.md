@@ -71,7 +71,7 @@ Zhu Hao (朱浩), abogado y socio del despacho Jiangsu Zhize en Suzhou, lleva as
 - [工程结算卡在规划核实，工程款该怎么核对？](https://www.toutiao.com/article/7709817835926159906/)
 - [工程结算一直在等财政评审，承包人还要等多久？](https://www.toutiao.com/article/7711596913980490274/)
 
-上述文章由本人已有账号发布，正文标明朱浩律师及江苏智择律师事务所，属于专业知识分享。
+[今日头条作者主页](https://www.toutiao.com/c/user/4558979999/)的公开简介列有朱浩律师、江苏智择律师事务所，以及在苏州办理的建设工程合同和房地产业务。上述实务文章可在该主页查阅。
 
 ## 身份与联系
 
