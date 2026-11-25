@@ -26,7 +26,7 @@
 
 ## Construction and property disputes in Suzhou, China
 
-Zhu Hao (朱浩) is a lawyer and partner at Jiangsu Zhize Law Firm (江苏智择律师事务所). His published practice covers construction final accounts, unpaid work, and disputes over the handover or quality of homes in Suzhou. The guides below explain which dates, notices and payment records to gather before a consultation.
+Zhu Hao (朱浩) is a lawyer and partner at Jiangsu Zhize Law Firm (江苏智择律师事务所). He was first approved to practise law in China on 30 October 2017. The [national lawyer register](https://credit.acla.org.cn/) records this date under licence number 13205201710149809. His published practice covers construction final accounts, unpaid work, and disputes over the handover or quality of homes in Suzhou. The guides below explain which dates, notices and payment records to gather before a consultation.
 
 For a delayed apartment handover in Suzhou, bring the contract, the developer’s delivery notice and the date you actually received the keys. For defects at handover, keep the inspection sheet and dated repair records. [Homebuyer consultation and handover records](https://zhuhaolawyer.com/services/property-handover/)
 
