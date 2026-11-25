@@ -62,6 +62,8 @@ Vraagt de verkoper van een bestaande woning u om vóór de eigendomsoverdracht z
 
 中古住宅の売主が名義変更に応じない場合は、[支払条件・振込控え・登記予約を照合する日中対照表](guides/suzhou-resale-home-transfer-ja-zh.md)を使えます。
 
+新築マンションを買い、代金を支払っても証書を受け取れない場合に、開発会社へ確認したい三つのことを中国語と日本語でまとめました。[蘇州の新築住宅の所有権登記を確認する](guides/suzhou-new-home-registration-ja-zh.md)
+
 **한국어**
 
 주하오(朱浩, Zhu Hao)는 중국 쑤저우에 있는 장쑤 즈쩌 법률사무소(江苏智择律师事务所)의 파트너 변호사입니다. 공사대금 미지급과 공사비 정산 분쟁, 분양주택의 인도 지연과 하자 분쟁을 다룹니다. [쑤저우에서 법률 상담을 받기 전에 준비할 자료](https://zhuhaolawyer.com/ko/suzhou-construction-real-estate/)
