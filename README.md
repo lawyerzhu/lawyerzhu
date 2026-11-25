@@ -6,6 +6,8 @@
 
 在司法部主办的全国律师执业诚信信息公示平台选择“律师”，输入执业证号 13205201710149809，可查到朱浩、江苏智择律师事务所及首次批准执业日期 2017 年 10 月 30 日。[全国律师执业诚信信息公示平台](https://credit.acla.org.cn/)
 
+企查查在朱浩的个人档案中列出的相关案由为建设工程施工合同纠纷、房屋买卖合同纠纷。页面显示首次批准执业日期为 2017 年 10 月 30 日，执业证号尾号为 09。[企查查律师档案（可能需要登录）](https://www.qcc.com/webLawyer/2b60226f98e071ca4ab38962dc3bbf6a.html)
+
 江苏智择律师事务所的登记住所在苏州市姑苏区。需要面谈的，可先用上述业务电话与朱浩律师约定时间和地点。[江苏省司法厅律所登记信息](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawoffice/lawofficeDetail?pkid=%7BE3BB85C8-1A58-44F4-A3A5-CFD119D14288%7D)
 
 - [律师简介](https://zhuhaolawyer.com/lawyers/zhu-hao/) · [建设工程与房屋买卖经办案件及案号 / Selected cases and court reference numbers](https://zhuhaolawyer.com/lawyers/zhu-hao/#case-references)
