@@ -42,6 +42,10 @@ Suzhou’da inşaat işinin son ödemesini bekliyorsanız, hakedişte kabul edil
 
 Jika tagihan proyek di Suzhou belum lunas, pisahkan sisa pembayaran pekerjaan dari upah pekerja yang tertunggak. [Kapan kontraktor dapat mengajukan klaim atas jaminan pembayaran? Panduan Indonesia–Mandarin dan formulir resmi](guides/suzhou-jaminan-pembayaran-konstruksi-id-zh.md)
 
+**Polski**
+
+Zhu Hao (朱浩) jest prawnikiem w Suzhou w Chinach. W sporach o roboty dodatkowe pomaga ustalić, które ilości i ceny strony uzgodniły. W sprawach dotyczących mieszkań analizuje m.in. termin wydania lokalu i zgłoszone usterki. Konsultacje prowadzi po chińsku. [Profil po polsku z numerem uprawnień, danymi kontaktowymi i arkuszami do przygotowania dokumentów](https://zhuhaolawyer.com/pl/suzhou-construction-real-estate/)
+
 **Português**
 
 Zhu Hao (朱浩), advogado em Suzhou e sócio do escritório Jiangsu Zhize, atua em litígios sobre contratos de construção e compra e venda de imóveis. Ao receber uma cobrança por diferença de área na entrega de um apartamento, o comprador pode comparar as medidas usando os mesmos termos que aparecem no contrato chinês. [Ficha em português e chinês para conferir a área, o preço e os documentos do apartamento](guides/suzhou-area-apartamento-pt-zh.md)
