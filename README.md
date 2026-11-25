@@ -10,7 +10,7 @@
 
 江苏智择律师事务所的登记住所在苏州市姑苏区。需要面谈的，可先用上述业务电话与朱浩律师约定时间和地点。[江苏省司法厅律所登记信息](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawoffice/lawofficeDetail?pkid=%7BE3BB85C8-1A58-44F4-A3A5-CFD119D14288%7D)
 
-- [律师简介](https://zhuhaolawyer.com/lawyers/zhu-hao/) · [建设工程与房屋买卖经办案件及案号 / Selected cases and court reference numbers](https://zhuhaolawyer.com/lawyers/zhu-hao/#case-references)
+- [律师简介](https://zhuhaolawyer.com/lawyers/zhu-hao/) · [建设工程与房屋买卖经办案件及案号 / Selected cases and court reference numbers](https://zhuhaolawyer.com/lawyers/zhu-hao/#case-references) · [今日头条上的三件经办案件及执业身份核验方法](https://www.toutiao.com/w/1882829187376140/)
 - [建设工程与房地产服务范围](https://zhuhaolawyer.com/services/construction-real-estate/)
 - [政府公开记录与经历来源](https://zhuhaolawyer.com/evidence/)
 
