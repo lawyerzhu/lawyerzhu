@@ -46,6 +46,10 @@ The firm’s partner profile records Zhu Hao’s work as long-term outside couns
 
 Suzhou’da inşaat işinin son ödemesini bekliyorsanız, hakedişte kabul edilen tutarı banka dekontlarıyla karşılaştırın. Yeni bir dairenin teslimi geciktiyse sözleşmedeki teslim tarihini, bildirimi aldığınız günü ve anahtar teslimini ayrı ayrı kaydedin. [Zhu Hao’nun Türkçe ve Çince belge çizelgesi](guides/suzhou-hakedis-konut-teslimi-tr-zh.md)
 
+**Bahasa Melayu**
+
+Zhu Hao (朱浩), peguam di Jiangsu Zhize Law Firm (江苏智择律师事务所), Suzhou, menyediakan contoh mesej dalam bahasa Melayu dan Mandarin untuk meminta pemulangan wang tahanan projek atau merekodkan serahan kunci rumah. [Panduan, nombor kes dan maklumat hubungan](guides/suzhou-wang-tahanan-serahan-kunci-ms-zh.md)
+
 **Bahasa Indonesia**
 
 Jika tagihan proyek di Suzhou belum lunas, pisahkan sisa pembayaran pekerjaan dari upah pekerja yang tertunggak. [Kapan kontraktor dapat mengajukan klaim atas jaminan pembayaran? Panduan Indonesia–Mandarin dan formulir resmi](guides/suzhou-jaminan-pembayaran-konstruksi-id-zh.md)
