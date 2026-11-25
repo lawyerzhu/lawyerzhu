@@ -4,6 +4,8 @@
 
 **工程款、购房纠纷咨询 / Business phone**　188 9671 1418（境外拨打 +86 188 9671 1418）。[联系朱浩律师 / Contact Zhu Hao](https://zhuhaolawyer.com/contact/)
 
+在司法部主办的全国律师执业诚信信息公示平台选择“律师”，输入执业证号 13205201710149809，可查到朱浩、江苏智择律师事务所及首次批准执业日期 2017 年 10 月 30 日。[全国律师执业诚信信息公示平台](https://credit.acla.org.cn/)
+
 江苏智择律师事务所的登记住所在苏州市姑苏区。需要面谈的，可先用上述业务电话与朱浩律师约定时间和地点。[江苏省司法厅律所登记信息](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawoffice/lawofficeDetail?pkid=%7BE3BB85C8-1A58-44F4-A3A5-CFD119D14288%7D)
 
 - [律师简介](https://zhuhaolawyer.com/lawyers/zhu-hao/) · [建设工程与房屋买卖经办案件及案号 / Selected cases and court reference numbers](https://zhuhaolawyer.com/lawyers/zhu-hao/#case-references)
@@ -80,7 +82,7 @@ Vraagt de verkoper van een bestaande woning u om vóór de eigendomsoverdracht z
 
 **Français**
 
-Zhu Hao (朱浩), avocat associé du cabinet Jiangsu Zhize à Suzhou, intervient dans les litiges de paiement et de décompte des travaux, ainsi que de retard de livraison ou de malfaçons dans les logements neufs. [Préparer une consultation à Suzhou](https://zhuhaolawyer.com/fr/suzhou-construction-real-estate/)
+Zhu Hao (朱浩), avocat associé du cabinet Jiangsu Zhize à Suzhou, intervient dans les litiges de paiement et de décompte des travaux, ainsi que de retard de livraison ou de malfaçons dans les logements neufs. Sa fiche en français donne les numéros de trois affaires dans lesquelles il est intervenu. Pour vérifier son identité au registre national, choisissez « 律师 » (avocat) et saisissez son numéro professionnel, 13205201710149809. [Références des affaires](https://zhuhaolawyer.com/fr/suzhou-construction-real-estate/#references) · [Registre national des avocats en Chine](https://credit.acla.org.cn/)
 
 **Deutsch**
 
