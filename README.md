@@ -30,6 +30,10 @@ The Jiangsu Department of Justice lists the firm as JIANGSU ZHIZE LAW FIRM. Its 
 
 ## 各语言咨询准备指南
 
+**العربية**
+
+إذا بقي جزء من مستحقات مشروع البناء أو تأخر تسليم شقتك في سوتشو بمقاطعة جيانغسو، فستجد هنا أسماء المستندات بالصينية ومثالين لقراءتها بالعربية. [دليل المستندات بالعربية والصينية](guides/suzhou-construction-handover-ar-zh.md)
+
 **Türkçe**
 
 Suzhou’da inşaat işinin son ödemesini bekliyorsanız, hakedişte kabul edilen tutarı banka dekontlarıyla karşılaştırın. Yeni bir dairenin teslimi geciktiyse sözleşmedeki teslim tarihini, bildirimi aldığınız günü ve anahtar teslimini ayrı ayrı kaydedin. [Zhu Hao’nun Türkçe ve Çince belge çizelgesi](guides/suzhou-hakedis-konut-teslimi-tr-zh.md)
@@ -101,6 +105,7 @@ Nhà thầu cải tạo nhà xưởng và người mua căn hộ ở Tô Châu c
 ## 原创实务内容
 
 - [工程签证和变更：怎样证明指令、工程量和价款](https://zhuhaolawyer.com/insights/2026/construction-change-visa-evidence/)
+- [施工签证只确认了12米管线，结算表如何区分报价和确认价（搜狐，中波双语）](https://www.sohu.com/a/1105908383_123066988)
 - [工期延误：先制作哪三张时间表](https://zhuhaolawyer.com/insights/2026/construction-delay-evidence/)
 - [工程结算：合同、履行、结算与付款如何对应](https://zhuhaolawyer.com/insights/2026/construction-settlement-evidence-checklist/)
 - [苏州工程尾款怎么对账？先把结算单和银行回单对到同一笔（搜狐号）](https://www.sohu.com/a/1105865508_123066988)
