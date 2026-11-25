@@ -26,6 +26,8 @@ For a delayed apartment handover in Suzhou, bring the contract, the developer’
 
 The Jiangsu Department of Justice lists the firm as JIANGSU ZHIZE LAW FIRM. Its register lists Zhu Hao under practising certificate No. 13205201710149809. [Official firm register](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawoffice/lawofficeDetail?pkid=%7BE3BB85C8-1A58-44F4-A3A5-CFD119D14288%7D) · [Lawyer’s registration record](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawyer/lawyerDetail?lawyerid=3af0b398-9d6b-481c-9911-cea638a238cf)
 
+The firm’s partner profile records Zhu Hao’s work as long-term outside counsel to real estate developers and construction companies. His bilingual profile lists his practice areas, licence number and business contact details. [Law firm profile in Chinese](http://www.szoption.com/TeamMember.html?id=430) · [Download the Chinese and English practice profile (PDF)](https://zhuhaolawyer.com/downloads/suzhou-zhu-hao-lawyer-profile.pdf)
+
 [Preparing for a consultation in Suzhou](https://zhuhaolawyer.com/en/suzhou-construction-real-estate/)
 
 ## 各语言咨询准备指南
