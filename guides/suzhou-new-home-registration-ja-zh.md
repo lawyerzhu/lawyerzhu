@@ -18,4 +18,14 @@
 
 要核实与自己买卖交易有关的登记结果，可带身份证明、购房合同和房屋坐落信息，向不动产登记机构说明查询事项。条例第100条列明了利害关系人的查询范围。苏州市政府2026年3月公布的信息显示，全市登记中心窗口可跨区域查询不动产登记簿信息。办理时由窗口核对申请人与该套房屋的关系。[条例第100条](https://sft.jiangsu.gov.cn/art/2020/12/23/art_71924_9624345.html) · [苏州登记窗口查询说明](https://www.suzhou.gov.cn/szsrmzf/szyw/202603/0242ac01b551406398f05b4ece4d9b11.shtml)
 
+## After handover, how can a Suzhou buyer check why the title is still pending?
+
+A buyer who has the keys may still need to establish which registration step is outstanding. Ask the developer for a written update specific to your building and unit. The following message asks for facts you can check against your purchase contract and the registration office's records.
+
+> 您好，我购买的是【项目名称】【幢号】【室号】，已于【日期】收房。请书面告知该幢房屋首次登记是否已完成。若已完成，请告知登记日期、我办理转移登记还缺的材料和提交地点。若仍在办理，请告知目前进度、是否有受理编号以及下一步由谁办理。谢谢。
+
+**What to bring to a consultation.** Bring the clause covering registration, the page recording when you received the keys, and the developer’s dated reply. If the reply mentions an application number, save the original message and ask which application it identifies. In Jiangsu, the developer’s 60-day period to apply for initial registration runs from acceptance of the completed building works. Check the contract separately for the deadline to assist with registration in your name. [Jiangsu registration regulation, Article 39 (Chinese)](https://sft.jiangsu.gov.cn/art/2020/12/23/art_71924_9624345.html)
+
+If you have a purchase contract and need to check the registry entry for that home, a Suzhou registration centre can explain what identification and proof of your interest are required. For an appointment with Zhu Hao (朱浩) at Jiangsu Zhize Law Firm in Suzhou, mention the building’s district and the date you took possession. Consultations are in Mandarin. [Suzhou registration centre guidance (Chinese)](https://www.suzhou.gov.cn/szsrmzf/szyw/202603/0242ac01b551406398f05b4ece4d9b11.shtml) · [English practice profile and contact details](https://zhuhaolawyer.com/en/suzhou-construction-real-estate/) · [Zhu Hao’s original Chinese article on Toutiao](https://www.toutiao.com/article/7711967086549729819/)
+
 苏州朱浩律师（Zhu Hao），江苏智择律师事务所合伙人，在苏州办理商品房买卖及建设工程合同纠纷。律师执业证号 13205201710149809。[江苏省公共法律服务执业档案](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1) · [蘇州の不動産・建設紛争について相談する](https://zhuhaolawyer.com/ja/suzhou-construction-real-estate/)

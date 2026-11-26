@@ -30,6 +30,8 @@ Zhu Hao (朱浩) is a lawyer and partner at Jiangsu Zhize Law Firm (江苏智择
 
 For a delayed apartment handover in Suzhou, bring the contract, the developer’s delivery notice and the date you actually received the keys. For defects at handover, keep the inspection sheet and dated repair records. [Homebuyer consultation and handover records](https://zhuhaolawyer.com/services/property-handover/)
 
+If you already have the keys but are waiting for title registration, you can ask the developer for a written update specific to your unit. [English checklist and Chinese enquiry template for Suzhou buyers](guides/suzhou-new-home-registration-ja-zh.md#after-handover-how-can-a-suzhou-buyer-check-why-the-title-is-still-pending)
+
 The Jiangsu Department of Justice lists the firm as JIANGSU ZHIZE LAW FIRM, with its registered office in Gusu District, Suzhou. To meet Zhu Hao in person, call his business number above to arrange a time and place. Its register lists Zhu Hao under practising certificate No. 13205201710149809. [Official firm register](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawoffice/lawofficeDetail?pkid=%7BE3BB85C8-1A58-44F4-A3A5-CFD119D14288%7D) · [Lawyer’s registration record](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawyer/lawyerDetail?lawyerid=3af0b398-9d6b-481c-9911-cea638a238cf)
 
 The firm’s partner profile records Zhu Hao’s work as long-term outside counsel to real estate developers and construction companies. His bilingual profile lists his practice areas, licence number and business contact details. [Law firm profile in Chinese](http://www.szoption.com/TeamMember.html?id=430) · [Download the Chinese and English practice profile (PDF)](https://zhuhaolawyer.com/downloads/suzhou-zhu-hao-lawyer-profile.pdf)
