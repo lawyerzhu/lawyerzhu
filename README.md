@@ -20,6 +20,8 @@
 
 **房地产**　朱浩律师在苏州办理商品房买卖、延期交房、质量及合同履行和解除争议。开发商逾期交房时，先核对合同交付日、交房通知送达日和实际交付日。收房时发现漏水等质量问题，另行记录部位、报修和复验情况。[商品房交付与质量纠纷咨询](https://zhuhaolawyer.com/services/property-handover/) · [延期交房的合同和通知材料](https://zhuhaolawyer.com/insights/2026/commercial-housing-delivery-delay-materials/)
 
+在苏州买的新房已经交付，开发商一直未协助办理不动产权证，可以按楼幢核对首次登记进度，再核对购房人名下转移登记缺少的材料。文章里列了可以向开发商追问的三个问题。[朱浩律师的头条原文](https://www.toutiao.com/article/7711967086549729819/) · [办证进度书面询问模板](guides/suzhou-new-home-registration-ja-zh.md)
+
 二手房买卖遇到卖方迟迟不配合过户，可以先把尾款支付条件、已付款和双方约定的递件日期列在一起。[苏州二手房过户资料对照表（日中双语）](guides/suzhou-resale-home-transfer-ja-zh.md)
 
 第一次沟通时，可以把“合同怎么约定—实际怎么履行—对方是否确认—争议金额如何计算”列成一张表，标明材料缺口。这比单独提供一个争议总额更便于判断问题。
