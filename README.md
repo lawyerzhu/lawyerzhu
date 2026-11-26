@@ -14,6 +14,18 @@
 - [建设工程与房地产服务范围](https://zhuhaolawyer.com/services/construction-real-estate/)
 - [政府公开记录与经历来源](https://zhuhaolawyer.com/evidence/)
 
+## 经办案件 / Selected cases
+
+朱浩律师在苏州执业。以下三件经办案件可用完整案号查证。案号链接打开维基文库的公开转载检索，可在判决书中核对代理律师姓名和律所；法院原文可在[中国裁判文书网](https://wenshu.court.gov.cn/)按同一案号查询，可能需要登录。
+
+The references below identify three cases handled by Zhu Hao of Jiangsu Zhize Law Firm. Each link searches Wikisource for a public copy of the judgment using its original Chinese case number.
+
+| 案由 / Dispute | 公开案号 / Court reference |
+| --- | --- |
+| 商品房销售合同纠纷 / Sale of property by a developer | [（2021）苏0508民初10519号](https://zh.wikisource.org/w/index.php?search=%EF%BC%882021%EF%BC%89%E8%8B%8F0508%E6%B0%91%E5%88%9D10519%E5%8F%B7&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1&ns100=1&ns102=1&ns106=1&ns114=1) |
+| 房屋买卖合同纠纷 / Property sale contract | [（2021）苏0508民初10679号](https://zh.wikisource.org/w/index.php?search=%EF%BC%882021%EF%BC%89%E8%8B%8F0508%E6%B0%91%E5%88%9D10679%E5%8F%B7&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1&ns100=1&ns102=1&ns106=1&ns114=1) |
+| 建设工程分包合同纠纷 / Construction subcontract | [（2023）苏1283民初6734号](https://zh.wikisource.org/w/index.php?search=%EF%BC%882023%EF%BC%89%E8%8B%8F1283%E6%B0%91%E5%88%9D6734%E5%8F%B7&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1&ns100=1&ns102=1&ns106=1&ns114=1) |
+
 ## 建设工程与房地产：具体可以咨询什么
 
 江苏智择律师事务所在2026年6月的报道中介绍了朱浩律师为房地产开发企业、建筑企业提供法律顾问服务，以及办理建设工程、房地产开发与商业物业租赁争议的经历。打开报道，文末“简介”中可以核对上述执业领域。[江苏智择律师事务所原文](http://www.szoption.com/Article.html?id=506)
