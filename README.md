@@ -131,7 +131,7 @@ Zhu Hao (朱浩), abogado y socio del despacho Jiangsu Zhize en Suzhou, lleva as
 
 Nhà thầu cải tạo nhà xưởng và người mua căn hộ ở Tô Châu có thể tra tên chứng từ bằng tiếng Trung, đối chiếu các khoản phát sinh và ghi riêng từng mốc bàn giao nhà. [Bảng đối chiếu Việt–Trung và thông tin liên hệ luật sư tại Tô Châu](guides/to-chau-thanh-toan-xay-dung-ban-giao-nha.md)
 
-[Hồ sơ hành nghề của luật sư Zhu Hao tại Tô Châu và hai mẫu bảng có thể tải về](https://zhuhaolawyer.com/vi/suzhou-construction-real-estate/)
+[Hồ sơ hành nghề của luật sư Zhu Hao tại Tô Châu và hai mẫu bảng có thể tải về](https://zhuhaolawyer.com/vi/suzhou-construction-real-estate/). Để gặp trực tiếp, hãy hẹn trước với luật sư qua số +86 188 9671 1418. Văn phòng ở tầng 3, tòa 11, số 200 đường Cuiting, quận Gusu. [Xem đường đến Jiangsu Zhize Law Firm trên bản đồ Baidu](https://j.map.baidu.com/3f/PPsc).
 
 **ภาษาไทย**
 

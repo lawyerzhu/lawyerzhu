@@ -33,3 +33,7 @@ Nếu hai bên ghi ngày khác nhau, giữ cả hai bản cùng tài liệu cho 
 ## Luật sư và thông tin hành nghề
 
 Zhu Hao (朱浩) là luật sư thành viên của Jiangsu Zhize Law Firm (江苏智择律师事务所) tại Tô Châu. Ông xử lý tranh chấp hợp đồng thi công, thanh toán công trình và mua bán, bàn giao nhà ở. Số thẻ hành nghề tại Trung Quốc là **13205201710149809**. Số điện thoại công việc **+86 188 9671 1418**. [Hồ sơ luật sư do tỉnh Giang Tô công bố](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1) · [Thông tin liên hệ của luật sư](https://zhuhaolawyer.com/lawyers/zhu-hao/)
+
+### Gặp luật sư ở đâu?
+
+Văn phòng ở tầng 3, tòa 11, số 200 đường Cuiting, quận Gusu, thành phố Tô Châu. Bạn có thể đưa địa chỉ bằng tiếng Trung cho tài xế: **苏州市姑苏区翠庭路200号觅渡翠庭11幢三楼**. Để hẹn gặp Zhu Hao, hãy gọi **+86 188 9671 1418**. Buổi tư vấn dùng tiếng Trung phổ thông. Nếu cần phiên dịch, hãy trao đổi khi đặt lịch. [Vị trí Jiangsu Zhize Law Firm trên bản đồ Baidu](https://j.map.baidu.com/3f/PPsc) · [Địa chỉ do văn phòng luật sư công bố](http://www.szoption.com/Contact.html).
