@@ -88,6 +88,8 @@ Vraagt de verkoper van een bestaande woning u om vóór de eigendomsoverdracht z
 
 주하오(朱浩, Zhu Hao)는 중국 쑤저우에 있는 장쑤 즈쩌 법률사무소(江苏智择律师事务所)의 파트너 변호사입니다. 공사대금 미지급과 공사비 정산 분쟁, 분양주택의 인도 지연과 하자 분쟁을 다룹니다. [쑤저우에서 법률 상담을 받기 전에 준비할 자료](https://zhuhaolawyer.com/ko/suzhou-construction-real-estate/)
 
+같은 법률사무소에 한자 이름이 朱浩인 변호사가 두 명 있습니다. 장쑤성 공공법률서비스망에서 제 기록을 확인하려면 이름 아래의 ‘律师执业证号’(변호사 등록번호)가 **13205201710149809**인지 확인하세요. ‘主管司法局’(관할 사법행정기관)에는 ‘苏州市-姑苏区’(쑤저우시 구쑤구)가 표시됩니다. 공사대금이나 주택 매매 문제로 면담을 예약할 때는 제 업무용 이메일 **lawyer_zhu@szoption.com**으로 연락하실 수 있습니다. [장쑤성 12348의 주하오 변호사 등록 기록](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1) · [법률사무소의 변호사 소개 및 이메일](http://www.szoption.com/TeamMember.html?id=430)
+
 시공사는 [한·중 공사대금 정산표](https://zhuhaolawyer.com/downloads/construction-payment-reconciliation-ko-zh.csv)에 같은 기준일의 청구액과 발주자가 확인한 금액을 나란히 적고, 지급 내역은 지급일별로 기록할 수 있습니다. 분양주택 매수인은 [한·중 주택 인도 기록표](https://zhuhaolawyer.com/downloads/property-handover-log-ko-zh.csv)에 계약상 인도 예정일, 통지를 받은 날, 열쇠를 받은 날을 구분해 적을 수 있습니다.
 
 **Français**
