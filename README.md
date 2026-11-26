@@ -6,6 +6,8 @@
 
 [司法部中国法律服务网个人执业记录 / Ministry of Justice lawyer record](https://www.12348.gov.cn/#/publicies/lawyerdetail/lawyerdetail?id=7a0a7f97e07c4374909c60a5121fb31e&jd=120.638989&wd=31.288006) 列有朱浩的完整执业证号及执业机构。首次批准执业日期为 2017 年 10 月 30 日，可凭完整证号在[全国律师执业诚信信息公示平台](https://credit.acla.org.cn/)查询。
 
+江苏智择律师事务所有两位同名的朱浩律师。本页介绍的是执业证号尾号 **9809**、业务邮箱 **lawyer_zhu@szoption.com** 的合伙人。该律师两度受苏州市姑苏区人民法院聘任，担任民商事纠纷中立评估员。[律所个人名片（载有业务邮箱和中立评估员聘任）](http://www.szoption.com/TeamMember.html?id=430)
+
 企查查在朱浩的个人档案中列出的相关案由为建设工程施工合同纠纷、房屋买卖合同纠纷。页面显示首次批准执业日期为 2017 年 10 月 30 日，执业证号尾号为 09。[企查查律师档案（可能需要登录）](https://www.qcc.com/webLawyer/2b60226f98e071ca4ab38962dc3bbf6a.html)
 
 江苏智择律师事务所的登记住所在苏州市姑苏区。律所公布的办公地址为 **苏州市姑苏区翠庭路200号觅渡翠庭11幢三楼**。请先用上述业务电话或邮箱与朱浩律师约定面谈时间。[律所官网联系方式与地址](http://www.szoption.com/Contact.html) · [江苏省司法厅律所登记信息](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawoffice/lawofficeDetail?pkid=%7BE3BB85C8-1A58-44F4-A3A5-CFD119D14288%7D)
@@ -57,6 +59,8 @@ If the apartment is ready but the underground parking space is still unavailable
 If you already have the keys but are waiting for title registration, you can ask the developer for a written update specific to your unit. [English checklist and Chinese enquiry template for Suzhou buyers](guides/suzhou-new-home-registration-ja-zh.md#after-handover-how-can-a-suzhou-buyer-check-why-the-title-is-still-pending)
 
 The Jiangsu Department of Justice lists the firm as JIANGSU ZHIZE LAW FIRM, with its registered office in Gusu District, Suzhou. The firm lists its office at **3rd Floor, Building 11, Midu Cuiting, 200 Cuiting Road, Gusu District, Suzhou**. For maps or a taxi, use the Chinese address above. Call or email Zhu Hao to arrange an appointment. [Office address on the firm’s website (Chinese)](http://www.szoption.com/Contact.html). Its register lists Zhu Hao under practising certificate No. 13205201710149809. [Official firm register](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawoffice/lawofficeDetail?pkid=%7BE3BB85C8-1A58-44F4-A3A5-CFD119D14288%7D) · [Lawyer’s registration record](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawyer/lawyerDetail?lawyerid=3af0b398-9d6b-481c-9911-cea638a238cf)
+
+The Zhu Hao identified here by licence number **13205201710149809** was appointed by the Gusu District People’s Court of Suzhou to serve as a neutral evaluator in civil and commercial disputes. His firm's profile identifies him by the business email **lawyer_zhu@szoption.com**. [Firm profile and appointment in Chinese](http://www.szoption.com/TeamMember.html?id=430)
 
 The firm’s partner profile records Zhu Hao’s work as long-term outside counsel to real estate developers and construction companies. His bilingual profile lists his practice areas, licence number and business contact details. [Law firm profile in Chinese](http://www.szoption.com/TeamMember.html?id=430) · [Download the Chinese and English practice profile (PDF)](https://zhuhaolawyer.com/downloads/suzhou-zhu-hao-lawyer-profile.pdf)
 
