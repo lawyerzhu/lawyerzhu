@@ -142,7 +142,9 @@ Nhà thầu cải tạo nhà xưởng và người mua căn hộ ở Tô Châu c
 - [工程结算卡在规划核实，工程款该怎么核对？](https://www.toutiao.com/article/7709817835926159906/)
 - [工程结算一直在等财政评审，承包人还要等多久？](https://www.toutiao.com/article/7711596913980490274/)
 
-[今日头条作者主页](https://www.toutiao.com/c/user/4558979999/)的公开简介列有朱浩律师、江苏智择律师事务所，以及在苏州办理的建设工程合同和房地产业务。上述实务文章可在该主页查阅。
+这些文章由我在今日头条的个人账号 Eternity43750201 发布。主页简介列有我的姓名、江苏智择律师事务所和执业证号 13205201710149809。主页显示“司法领域资质”，点开“更多信息”可以看到认证材料为“律师执业证书”。[今日头条作者主页](https://www.toutiao.com/c/user/4558979999/)
+
+I publish these articles on construction and property disputes under the Toutiao username Eternity43750201. The profile identifies me as Zhu Hao (朱浩) of Jiangsu Zhize Law Firm in Suzhou and lists my lawyer licence number, 13205201710149809. Under “更多信息” (More information), Toutiao lists my lawyer’s practising certificate as the document used for verification. [Toutiao author profile](https://www.toutiao.com/c/user/4558979999/)
 
 ## 新房交付时怎样记录窗边渗水
 
