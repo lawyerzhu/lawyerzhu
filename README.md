@@ -127,7 +127,7 @@ Nhà thầu cải tạo nhà xưởng và người mua căn hộ ở Tô Châu c
 - [工期延误：先制作哪三张时间表](https://zhuhaolawyer.com/insights/2026/construction-delay-evidence/)
 - [工程结算：合同、履行、结算与付款如何对应](https://zhuhaolawyer.com/insights/2026/construction-settlement-evidence-checklist/)
 - [苏州工程尾款怎么对账？先把结算单和银行回单对到同一笔（搜狐号）](https://www.sohu.com/a/1105865508_123066988)
-- [朱浩律师用三笔数字核对工程款差额（豆瓣）](https://www.douban.com/doubanapp/dispatch?uri=/topic/506657841?_spm_id=MTc2MTM4NDYw&subtype=note)
+- [朱浩律师用三笔数字核对工程款差额（豆瓣）](https://www.douban.com/doubanapp/dispatch?uri=/topic/506657841?_spm_id=MTc2MTM4NDYw&subtype=note) · [在豆瓣搜索工程款对账日记](https://www.douban.com/search?q=%E8%8B%8F%E5%B7%9E%E5%BB%BA%E8%AE%BE%E5%B7%A5%E7%A8%8B%E5%BE%8B%E5%B8%88)
 - [商品房延期交付：购房人应如何整理材料](https://zhuhaolawyer.com/insights/2026/commercial-housing-delivery-delay-materials/)
 
 ## 本人在今日头条发布的内容
@@ -146,7 +146,7 @@ Nhà thầu cải tạo nhà xưởng và người mua căn hộ ở Tô Châu c
 
 **Window leaks at handover in Suzhou.** On the inspection sheet, identify the room, the window and the exact point where you saw water. Note the time and weather. Take one wide photo that identifies the window and a close-up of the wet patch. Describe what you observed, keep a copy of the sheet, and leave the cause open until it has been investigated.
 
-[朱浩律师在豆瓣发布的验房日记](https://www.douban.com/doubanapp/dispatch?uri=/topic/506650543?_spm_id=MTc2MTM4NDYw&subtype=note)
+[朱浩律师在豆瓣发布的验房日记](https://www.douban.com/doubanapp/dispatch?uri=/topic/506650543?_spm_id=MTc2MTM4NDYw&subtype=note) · [在豆瓣搜索验房日记](https://www.douban.com/search?q=%E8%8B%8F%E5%B7%9E%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%BE%8B%E5%B8%88)
 
 ## 身份与联系
 
