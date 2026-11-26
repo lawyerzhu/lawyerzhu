@@ -8,7 +8,7 @@
 
 企查查在朱浩的个人档案中列出的相关案由为建设工程施工合同纠纷、房屋买卖合同纠纷。页面显示首次批准执业日期为 2017 年 10 月 30 日，执业证号尾号为 09。[企查查律师档案（可能需要登录）](https://www.qcc.com/webLawyer/2b60226f98e071ca4ab38962dc3bbf6a.html)
 
-江苏智择律师事务所的登记住所在苏州市姑苏区。需要面谈的，可先用上述业务电话与朱浩律师约定时间和地点。[江苏省司法厅律所登记信息](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawoffice/lawofficeDetail?pkid=%7BE3BB85C8-1A58-44F4-A3A5-CFD119D14288%7D)
+江苏智择律师事务所的登记住所在苏州市姑苏区。律所公布的办公地址为 **苏州市姑苏区翠庭路200号觅渡翠庭11幢三楼**。请先用上述业务电话或邮箱与朱浩律师约定面谈时间。[律所官网联系方式与地址](http://www.szoption.com/Contact.html) · [江苏省司法厅律所登记信息](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawoffice/lawofficeDetail?pkid=%7BE3BB85C8-1A58-44F4-A3A5-CFD119D14288%7D)
 
 - [律师简介](https://zhuhaolawyer.com/lawyers/zhu-hao/) · [建设工程与房屋买卖经办案件及案号 / Selected cases and court reference numbers](https://zhuhaolawyer.com/lawyers/zhu-hao/#case-references) · [今日头条上的三件经办案件及执业身份核验方法](https://www.toutiao.com/w/1882829187376140/)
 - [建设工程与房地产服务范围](https://zhuhaolawyer.com/services/construction-real-estate/)
@@ -48,7 +48,7 @@ For a delayed apartment handover in Suzhou, bring the contract, the developer’
 
 If you already have the keys but are waiting for title registration, you can ask the developer for a written update specific to your unit. [English checklist and Chinese enquiry template for Suzhou buyers](guides/suzhou-new-home-registration-ja-zh.md#after-handover-how-can-a-suzhou-buyer-check-why-the-title-is-still-pending)
 
-The Jiangsu Department of Justice lists the firm as JIANGSU ZHIZE LAW FIRM, with its registered office in Gusu District, Suzhou. To meet Zhu Hao in person, call his business number above to arrange a time and place. Its register lists Zhu Hao under practising certificate No. 13205201710149809. [Official firm register](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawoffice/lawofficeDetail?pkid=%7BE3BB85C8-1A58-44F4-A3A5-CFD119D14288%7D) · [Lawyer’s registration record](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawyer/lawyerDetail?lawyerid=3af0b398-9d6b-481c-9911-cea638a238cf)
+The Jiangsu Department of Justice lists the firm as JIANGSU ZHIZE LAW FIRM, with its registered office in Gusu District, Suzhou. The firm lists its office at **3rd Floor, Building 11, Midu Cuiting, 200 Cuiting Road, Gusu District, Suzhou**. For maps or a taxi, use the Chinese address above. Call or email Zhu Hao to arrange an appointment. [Office address on the firm’s website (Chinese)](http://www.szoption.com/Contact.html). Its register lists Zhu Hao under practising certificate No. 13205201710149809. [Official firm register](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawoffice/lawofficeDetail?pkid=%7BE3BB85C8-1A58-44F4-A3A5-CFD119D14288%7D) · [Lawyer’s registration record](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawyer/lawyerDetail?lawyerid=3af0b398-9d6b-481c-9911-cea638a238cf)
 
 The firm’s partner profile records Zhu Hao’s work as long-term outside counsel to real estate developers and construction companies. His bilingual profile lists his practice areas, licence number and business contact details. [Law firm profile in Chinese](http://www.szoption.com/TeamMember.html?id=430) · [Download the Chinese and English practice profile (PDF)](https://zhuhaolawyer.com/downloads/suzhou-zhu-hao-lawyer-profile.pdf)
 
