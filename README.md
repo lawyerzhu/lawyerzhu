@@ -16,15 +16,15 @@
 
 ## 经办案件 / Selected cases
 
-朱浩律师在苏州执业。以下三件经办案件可用完整案号查证。案号链接打开维基文库的公开转载检索，可在判决书中核对代理律师姓名和律所；法院原文可在[中国裁判文书网](https://wenshu.court.gov.cn/)按同一案号查询，可能需要登录。
+点击下方案号可在 CaseOpen 阅读相应判决。三份判决的“委托诉讼代理人”栏均载有朱浩、江苏智择律师事务所。也可在[中文维基文库](https://zh.wikisource.org/wiki/Special:Search)或[中国裁判文书网](https://wenshu.court.gov.cn/)按完整案号核对。
 
-The references below identify three cases handled by Zhu Hao of Jiangsu Zhize Law Firm. Each link searches Wikisource for a public copy of the judgment using its original Chinese case number.
+Each case number links to a public copy of the Chinese judgment on CaseOpen. Near the beginning, the entry for counsel (委托诉讼代理人) gives Zhu Hao’s name and firm.
 
 | 案由 / Dispute | 公开案号 / Court reference |
 | --- | --- |
-| 商品房销售合同纠纷 / Sale of property by a developer | [（2021）苏0508民初10519号](https://zh.wikisource.org/w/index.php?search=%EF%BC%882021%EF%BC%89%E8%8B%8F0508%E6%B0%91%E5%88%9D10519%E5%8F%B7&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1&ns100=1&ns102=1&ns106=1&ns114=1) |
-| 房屋买卖合同纠纷 / Property sale contract | [（2021）苏0508民初10679号](https://zh.wikisource.org/w/index.php?search=%EF%BC%882021%EF%BC%89%E8%8B%8F0508%E6%B0%91%E5%88%9D10679%E5%8F%B7&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1&ns100=1&ns102=1&ns106=1&ns114=1) |
-| 建设工程分包合同纠纷 / Construction subcontract | [（2023）苏1283民初6734号](https://zh.wikisource.org/w/index.php?search=%EF%BC%882023%EF%BC%89%E8%8B%8F1283%E6%B0%91%E5%88%9D6734%E5%8F%B7&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1&ns100=1&ns102=1&ns106=1&ns114=1) |
+| 商品房销售合同纠纷 / Sale of property by a developer | [（2021）苏0508民初10519号](https://caseopen.org/case/47760589) |
+| 房屋买卖合同纠纷 / Property sale contract | [（2021）苏0508民初10679号](https://caseopen.org/case/48159129) |
+| 建设工程分包合同纠纷 / Construction subcontract | [（2023）苏1283民初6734号](https://caseopen.org/case/145403121) |
 
 ## 建设工程与房地产：具体可以咨询什么
 
