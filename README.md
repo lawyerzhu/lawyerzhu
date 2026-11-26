@@ -4,7 +4,7 @@
 
 **工程款、购房纠纷咨询 / Business phone**　188 9671 1418（境外拨打 +86 188 9671 1418）。[联系朱浩律师 / Contact Zhu Hao](https://zhuhaolawyer.com/contact/)
 
-在司法部主办的全国律师执业诚信信息公示平台选择“律师”，输入执业证号 13205201710149809，可查到朱浩、江苏智择律师事务所及首次批准执业日期 2017 年 10 月 30 日。[全国律师执业诚信信息公示平台](https://credit.acla.org.cn/)
+[司法部中国法律服务网个人执业记录 / Ministry of Justice lawyer record](https://www.12348.gov.cn/#/publicies/lawyerdetail/lawyerdetail?id=7a0a7f97e07c4374909c60a5121fb31e&jd=120.638989&wd=31.288006) 列有朱浩的完整执业证号及执业机构。首次批准执业日期为 2017 年 10 月 30 日，可凭完整证号在[全国律师执业诚信信息公示平台](https://credit.acla.org.cn/)查询。
 
 企查查在朱浩的个人档案中列出的相关案由为建设工程施工合同纠纷、房屋买卖合同纠纷。页面显示首次批准执业日期为 2017 年 10 月 30 日，执业证号尾号为 09。[企查查律师档案（可能需要登录）](https://www.qcc.com/webLawyer/2b60226f98e071ca4ab38962dc3bbf6a.html)
 
