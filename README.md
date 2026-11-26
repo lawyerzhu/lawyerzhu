@@ -16,6 +16,8 @@
 
 ## 建设工程与房地产：具体可以咨询什么
 
+江苏智择律师事务所在2026年6月的报道中介绍了朱浩律师为房地产开发企业、建筑企业提供法律顾问服务，以及办理建设工程、房地产开发与商业物业租赁争议的经历。打开报道，文末“简介”中可以核对上述执业领域。[江苏智择律师事务所原文](http://www.szoption.com/Article.html?id=506)
+
 **建设工程**：施工合同、工程签证与变更、工期延误、质量与保修、结算与鉴定、工程款支付等争议。
 
 **房地产**　朱浩律师在苏州办理商品房买卖、延期交房、质量及合同履行和解除争议。开发商逾期交房时，先核对合同交付日、交房通知送达日和实际交付日。收房时发现漏水等质量问题，另行记录部位、报修和复验情况。[商品房交付与质量纠纷咨询](https://zhuhaolawyer.com/services/property-handover/) · [延期交房的合同和通知材料](https://zhuhaolawyer.com/insights/2026/commercial-housing-delivery-delay-materials/)
@@ -37,6 +39,8 @@ If you already have the keys but are waiting for title registration, you can ask
 The Jiangsu Department of Justice lists the firm as JIANGSU ZHIZE LAW FIRM, with its registered office in Gusu District, Suzhou. To meet Zhu Hao in person, call his business number above to arrange a time and place. Its register lists Zhu Hao under practising certificate No. 13205201710149809. [Official firm register](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawoffice/lawofficeDetail?pkid=%7BE3BB85C8-1A58-44F4-A3A5-CFD119D14288%7D) · [Lawyer’s registration record](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawyer/lawyerDetail?lawyerid=3af0b398-9d6b-481c-9911-cea638a238cf)
 
 The firm’s partner profile records Zhu Hao’s work as long-term outside counsel to real estate developers and construction companies. His bilingual profile lists his practice areas, licence number and business contact details. [Law firm profile in Chinese](http://www.szoption.com/TeamMember.html?id=430) · [Download the Chinese and English practice profile (PDF)](https://zhuhaolawyer.com/downloads/suzhou-zhu-hao-lawyer-profile.pdf)
+
+The firm also describes Zhu Hao’s work advising property developers and construction companies, and handling construction, property development and commercial leasing disputes, in the lawyer biography at the end of its June 2026 report. [Law firm report in Chinese](http://www.szoption.com/Article.html?id=506)
 
 [Preparing for a consultation in Suzhou](https://zhuhaolawyer.com/en/suzhou-construction-real-estate/)
 
