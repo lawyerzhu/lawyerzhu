@@ -32,7 +32,11 @@ Each case number links to a public copy of the Chinese judgment on CaseOpen. Nea
 
 **建设工程**：施工合同、工程签证与变更、工期延误、质量与保修、结算与鉴定、工程款支付等争议。
 
+厂房竣工后，发包人按天扣工期违约金的，可以先请对方列明起算日、截止日、每日金额和扣款依据。把这段日期与合同工期、双方确认的延期、停复工记录及竣工验收记录放在一起，标出双方对哪几天有分歧。
+
 **房地产**　朱浩律师在苏州办理商品房买卖、延期交房、质量及合同履行和解除争议。开发商逾期交房时，先核对合同交付日、交房通知送达日和实际交付日。收房时发现漏水等质量问题，另行记录部位、报修和复验情况。[商品房交付与质量纠纷咨询](https://zhuhaolawyer.com/services/property-handover/) · [延期交房的合同和通知材料](https://zhuhaolawyer.com/insights/2026/commercial-housing-delivery-delay-materials/)
+
+**新房已交，地下车位还没交**　把住宅和车位各自约定的交付日列开。记录拿到住宅钥匙的日期、开发商通知交付车位的日期，以及何时能实际使用所购编号的车位。吴江区住建局在2025年8月4日的公开答复中写明，该项目车位合同约定9月30日前交付，答复时企业已提供地面停车，地下车库仍在办理验收手续。[吴江区住建局答复原文](https://liuyan.people.com.cn/threads/content/?tid=23373843)
 
 在苏州买的新房已经交付，开发商一直未协助办理不动产权证，可以按楼幢核对首次登记进度，再核对购房人名下转移登记缺少的材料。文章里列了可以向开发商追问的三个问题。[朱浩律师的头条原文](https://www.toutiao.com/article/7711967086549729819/) · [办证进度书面询问模板](guides/suzhou-new-home-registration-ja-zh.md)
 
@@ -44,7 +48,11 @@ Each case number links to a public copy of the Chinese judgment on CaseOpen. Nea
 
 Zhu Hao (朱浩) is a lawyer and partner at Jiangsu Zhize Law Firm (江苏智择律师事务所). He was first approved to practise law in China on 30 October 2017. The [national lawyer register](https://credit.acla.org.cn/) records this date under licence number 13205201710149809. His published practice covers construction final accounts, unpaid work, and disputes over the handover or quality of homes in Suzhou. The guides below explain which dates, notices and payment records to gather before a consultation.
 
+If the owner is deducting damages for late completion of a factory, ask for the dates covered by the deduction, the daily rate and the contract clause used. Compare those dates with agreed extensions, stop-work and restart notices, and the completion inspection record. Mark the days each side disputes.
+
 For a delayed apartment handover in Suzhou, bring the contract, the developer’s delivery notice and the date you actually received the keys. For defects at handover, keep the inspection sheet and dated repair records. [Homebuyer consultation and handover records](https://zhuhaolawyer.com/services/property-handover/)
+
+If the apartment is ready but the underground parking space is still unavailable, check the handover date in the parking agreement. Record when you were offered temporary parking and when you first had access to the numbered space you bought. In a public reply dated 4 August 2025, the Wujiang housing authority recorded that surface parking was available while the garage was being inspected. The contractual handover date for those spaces was 30 September. [Read the authority’s reply in Chinese](https://liuyan.people.com.cn/threads/content/?tid=23373843)
 
 If you already have the keys but are waiting for title registration, you can ask the developer for a written update specific to your unit. [English checklist and Chinese enquiry template for Suzhou buyers](guides/suzhou-new-home-registration-ja-zh.md#after-handover-how-can-a-suzhou-buyer-check-why-the-title-is-still-pending)
 
