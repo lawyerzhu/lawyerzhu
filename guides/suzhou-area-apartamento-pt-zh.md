@@ -27,3 +27,5 @@ Se a notificação informar apenas o total a pagar, o comprador pode pedir a dis
 Em Jiangsu, os artigos 15 e 17 do regulamento provincial de transações imobiliárias urbanas tratam das formas de fixar o preço e da previsão contratual para diferenças de área na pré-venda. [Texto da Assembleia Popular de Jiangsu, em chinês](https://www.jsrd.gov.cn/qwfb/sjfg/202012/t20201223_1221178.shtml) · [Explicação de Zhu Hao em chinês](https://www.sohu.com/a/1105875953_123066988)
 
 Para tratar de um apartamento específico em Suzhou, indique o bloco e a unidade na sua própria cópia e marque as linhas em que os números divergem. [Como registrar uma infiltração que voltou após o reparo e falar com Zhu Hao](https://zhuhaolawyer.com/pt/suzhou-construction-real-estate/)
+
+Para marcar uma consulta com Zhu Hao (朱浩) em Suzhou, escreva para [lawyer_zhu@szoption.com](mailto:lawyer_zhu@szoption.com) ou telefone para +86 188 9671 1418.
