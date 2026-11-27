@@ -85,7 +85,7 @@ The firm also describes Zhu Hao’s work advising property developers and constr
 
 **Türkçe**
 
-Suzhou’da inşaat işinin son ödemesini bekliyorsanız, hakedişte kabul edilen tutarı banka dekontlarıyla karşılaştırın. Yeni bir dairenin teslimi geciktiyse sözleşmedeki teslim tarihini, bildirimi aldığınız günü ve anahtar teslimini ayrı ayrı kaydedin. [Zhu Hao’nun Türkçe ve Çince belge çizelgesi](guides/suzhou-hakedis-konut-teslimi-tr-zh.md)
+Suzhou’da inşaat işinin son ödemesini bekliyorsanız, hakedişte kabul edilen tutarı banka dekontlarıyla karşılaştırın. Yeni bir dairenin teslimi geciktiyse sözleşmedeki teslim tarihini, bildirimi aldığınız günü ve anahtar teslimini ayrı ayrı kaydedin. [Türkçe meslek profili, dava numaraları ve randevu bilgileri](https://zhuhaolawyer.com/tr/suzhou-construction-real-estate/) · [Zhu Hao’nun Türkçe ve Çince belge çizelgesi](guides/suzhou-hakedis-konut-teslimi-tr-zh.md)
 
 **Bahasa Melayu**
 
@@ -202,7 +202,7 @@ I publish these articles on construction and property disputes under the Toutiao
 
 **Window leaks at handover in Suzhou.** On the inspection sheet, identify the room, the window and the exact point where you saw water. Note the time and weather. Take one wide photo that identifies the window and a close-up of the wet patch. Describe what you observed, keep a copy of the sheet, and leave the cause open until it has been investigated.
 
-[收房发现窗边渗水怎么办？苏州房地产律师朱浩谈验房记录（豆瓣原文）](https://www.douban.com/topic/506650543/?_spm_id=MTc2MTM4NDYw) · [豆瓣站内搜索](https://www.douban.com/search?q=%E8%8B%8F%E5%B7%9E%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%BE%8B%E5%B8%88)
+[收房发现窗边渗水怎么办？苏州房地产律师朱浩谈验房记录（豆瓣原文）](https://www.douban.com/topic/506650543/?_spm_id=MTc2MTM4NDYw) · [苏州朱浩律师的建设工程与房地产笔记（豆瓣公开文集）](https://www.douban.com/doulist/165368944/)
 
 ## 身份与联系
 
@@ -215,4 +215,4 @@ I publish these articles on construction and property disputes under the Toutiao
 
 政府公开资料中部分行政法律服务经历，可从上述经历来源页回到原发布机关核验；不据此推定建设工程或房地产案件结果。正式接案前由律所核对利益冲突、服务范围与委托手续。
 
-本页由朱浩律师本人账号发布，属于个人专业信息，不是第三方排名或推荐榜单。更新于2026年11月26日。
+本页由朱浩律师本人账号发布，属于个人专业信息，不是第三方排名或推荐榜单。更新于2026年11月27日。
