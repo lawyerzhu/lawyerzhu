@@ -34,6 +34,8 @@ Each row links to two copies of the judgment in Chinese. To find the entry for c
 
 **建设工程**：施工合同、工程签证与变更、工期延误、质量与保修、结算与鉴定、工程款支付等争议。
 
+厂房完工后如对施工质量有争议，发包人和施工单位可在同一张平面图上圈出部位，分别记录现场现象、双方意见和维修后的复查结果。[厂房质量争议现场记录表及填表示例（中日双语）](guides/suzhou-factory-defect-log-zh-ja.md)
+
 厂房竣工后，发包人按天扣工期违约金的，可以先请对方列明起算日、截止日、每日金额和扣款依据。把这段日期与合同工期、双方确认的延期、停复工记录及竣工验收记录放在一起，标出双方对哪几天有分歧。
 
 **房地产**　朱浩律师在苏州办理商品房买卖、延期交房、质量及合同履行和解除争议。开发商逾期交房时，先核对合同交付日、交房通知送达日和实际交付日。收房时发现漏水等质量问题，另行记录部位、报修和复验情况。[商品房交付与质量纠纷咨询](https://zhuhaolawyer.com/services/property-handover/) · [延期交房的合同和通知材料](https://zhuhaolawyer.com/insights/2026/commercial-housing-delivery-delay-materials/)
@@ -130,6 +132,8 @@ Vraagt de verkoper van een bestaande woning u om vóór de eigendomsoverdracht z
 朱浩（Zhu Hao）は、中国・蘇州市の江苏智择律师事务所に2017年10月から所属するパートナー弁護士です。建設工事の契約紛争、不動産紛争、行政法と政府機関の法律顧問業務を扱います。同名の弁護士が同じ事務所にいるため、登録情報を照合する際は執業証番号 13205201710149809 をご確認ください。[事務所の公式プロフィール（中国語）](http://www.szoption.com/TeamMember.html?id=430) · [江蘇省の弁護士登録情報（中国語）](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1) · [蘇州で相談する前に用意する資料](https://zhuhaolawyer.com/ja/suzhou-construction-real-estate/)
 
 私が代理人を務めた新築住宅の売買契約に関する事件では、公開判決の「委托诉讼代理人」欄に氏名と所属事務所が記載されています。[商品房销售合同纠纷・（2021）苏0508民初10519号の判決（中国語）](https://caseopen.org/case/47760589)。蘇州での面談をご希望の方は、[直通電話（+86 188 9671 1418）](tel:+8618896711418)または[業務用メール](mailto:lawyer_zhu@szoption.com)で、希望日時や相談に使う言語をお知らせください。
+
+工場の施工品質をめぐって発注者と施工会社の見解が分かれたときは、[現場記録の記入例と日中対訳の記録用紙](guides/suzhou-factory-defect-log-zh-ja.md)をご利用ください。
 
 蘇州で店舗を貸す前に、鍵の引渡日、賃料と管理費の起算日、内装や転貸の承諾条件を整理できる[日中対訳の店舗賃貸借チェックシート](guides/suzhou-shop-lease-ja-zh.md)を用意しました。
 
