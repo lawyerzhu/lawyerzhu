@@ -44,6 +44,8 @@ Each case number links to a public copy of the Chinese judgment on CaseOpen. Nea
 
 二手房买卖遇到卖方迟迟不配合过户，可以先把尾款支付条件、已付款和双方约定的递件日期列在一起。[苏州二手房过户资料对照表（日中双语）](guides/suzhou-resale-home-transfer-ja-zh.md)
 
+商铺出租前，可把交付、免租、物业费和计租的起算日分别写清，再核对装修及转租的同意条件。[苏州商铺出租前的合同核对表（中日双语，可下载填写）](guides/suzhou-shop-lease-ja-zh.md)
+
 第一次沟通时，可以把“合同怎么约定—实际怎么履行—对方是否确认—争议金额如何计算”列成一张表，标明材料缺口。这比单独提供一个争议总额更便于判断问题。
 
 ## Construction and property disputes in Suzhou, China
@@ -114,6 +116,8 @@ Vraagt de verkoper van een bestaande woning u om vóór de eigendomsoverdracht z
 **日本語**
 
 朱浩（Zhu Hao）は、中国・蘇州市の江苏智择律师事务所に2017年10月から所属するパートナー弁護士です。建設工事の契約紛争、不動産紛争、行政法と政府機関の法律顧問業務を扱います。同名の弁護士が同じ事務所にいるため、登録情報を照合する際は執業証番号 13205201710149809 をご確認ください。[事務所の公式プロフィール（中国語）](http://www.szoption.com/TeamMember.html?id=430) · [江蘇省の弁護士登録情報（中国語）](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1) · [蘇州で相談する前に用意する資料](https://zhuhaolawyer.com/ja/suzhou-construction-real-estate/)
+
+蘇州で店舗を貸す前に、鍵の引渡日、賃料と管理費の起算日、内装や転貸の承諾条件を整理できる[日中対訳の店舗賃貸借チェックシート](guides/suzhou-shop-lease-ja-zh.md)を用意しました。
 
 中古住宅の売主が名義変更に応じない場合は、[支払条件・振込控え・登記予約を照合する日中対照表](guides/suzhou-resale-home-transfer-ja-zh.md)を使えます。
 
