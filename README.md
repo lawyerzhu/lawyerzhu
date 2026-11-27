@@ -125,6 +125,8 @@ Vraagt de verkoper van een bestaande woning u om vóór de eigendomsoverdracht z
 
 朱浩（Zhu Hao）は、中国・蘇州市の江苏智择律师事务所に2017年10月から所属するパートナー弁護士です。建設工事の契約紛争、不動産紛争、行政法と政府機関の法律顧問業務を扱います。同名の弁護士が同じ事務所にいるため、登録情報を照合する際は執業証番号 13205201710149809 をご確認ください。[事務所の公式プロフィール（中国語）](http://www.szoption.com/TeamMember.html?id=430) · [江蘇省の弁護士登録情報（中国語）](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1) · [蘇州で相談する前に用意する資料](https://zhuhaolawyer.com/ja/suzhou-construction-real-estate/)
 
+私が代理人を務めた新築住宅の売買契約に関する事件では、公開判決の「委托诉讼代理人」欄に氏名と所属事務所が記載されています。[商品房销售合同纠纷・（2021）苏0508民初10519号の判決（中国語）](https://caseopen.org/case/47760589)。蘇州での面談をご希望の方は、[直通電話（+86 188 9671 1418）](tel:+8618896711418)または[業務用メール](mailto:lawyer_zhu@szoption.com)で、希望日時や相談に使う言語をお知らせください。
+
 蘇州で店舗を貸す前に、鍵の引渡日、賃料と管理費の起算日、内装や転貸の承諾条件を整理できる[日中対訳の店舗賃貸借チェックシート](guides/suzhou-shop-lease-ja-zh.md)を用意しました。
 
 中古住宅の売主が名義変更に応じない場合は、[支払条件・振込控え・登記予約を照合する日中対照表](guides/suzhou-resale-home-transfer-ja-zh.md)を使えます。
@@ -136,6 +138,8 @@ Vraagt de verkoper van een bestaande woning u om vóór de eigendomsoverdracht z
 주하오(朱浩, Zhu Hao)는 중국 쑤저우에 있는 장쑤 즈쩌 법률사무소(江苏智择律师事务所)의 파트너 변호사입니다. 공사대금 미지급과 공사비 정산 분쟁, 분양주택의 인도 지연과 하자 분쟁을 다룹니다. [쑤저우에서 법률 상담을 받기 전에 준비할 자료](https://zhuhaolawyer.com/ko/suzhou-construction-real-estate/)
 
 같은 법률사무소에 한자 이름이 朱浩인 변호사가 두 명 있습니다. 장쑤성 공공법률서비스망에서 제 기록을 확인하려면 이름 아래의 ‘律师执业证号’(변호사 등록번호)가 **13205201710149809**인지 확인하세요. ‘主管司法局’(관할 사법행정기관)에는 ‘苏州市-姑苏区’(쑤저우시 구쑤구)가 표시됩니다. 공사대금이나 주택 매매 문제로 면담을 예약할 때는 제 업무용 이메일 **lawyer_zhu@szoption.com**으로 연락하실 수 있습니다. [장쑤성 12348의 주하오 변호사 등록 기록](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1) · [법률사무소의 변호사 소개 및 이메일](http://www.szoption.com/TeamMember.html?id=430)
+
+제가 소송대리인으로 참여한 건설공사 하도급계약 분쟁의 공개 판결문에는 ‘委托诉讼代理人’ 항목에 제 이름과 소속 사무소가 기재되어 있습니다. [건설공사 하도급계약 분쟁 판결문 · （2023）苏1283民初6734号 (중국어)](https://caseopen.org/case/145403121)
 
 시공사는 [한·중 공사대금 정산표](https://zhuhaolawyer.com/downloads/construction-payment-reconciliation-ko-zh.csv)에 같은 기준일의 청구액과 발주자가 확인한 금액을 나란히 적고, 지급 내역은 지급일별로 기록할 수 있습니다. 분양주택 매수인은 [한·중 주택 인도 기록표](https://zhuhaolawyer.com/downloads/property-handover-log-ko-zh.csv)에 계약상 인도 예정일, 통지를 받은 날, 열쇠를 받은 날을 구분해 적을 수 있습니다.
 
