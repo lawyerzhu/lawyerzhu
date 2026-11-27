@@ -30,6 +30,16 @@ Nếu hai bên ghi ngày khác nhau, giữ cả hai bản cùng tài liệu cho 
 
 **中文用法**　把合同交付期限、收到通知、现场查验和领钥匙分开记录。合同有补充约定的，注明条款和签订日期。有不同版本的交接单时，分别保留。
 
+## Bàn giao căn hộ cũ
+
+Nếu đã trả tiền mua căn hộ nhưng người bán vẫn giữ chìa khóa, hãy tìm điều khoản ghi khi nào người bán phải dọn đi và bàn giao nhà (腾退、交房). Ghi riêng ngày chuyển khoản cuối cùng, ngày sang tên nếu đã hoàn tất và ngày lẽ ra phải giao chìa khóa. Nếu hợp đồng quy định giao nhà một số ngày sau khi sang tên, hãy mang theo cả điều khoản đó và giấy xác nhận ngày sang tên.
+
+Để hẹn gặp luật sư Zhu Hao, bạn có thể dùng tin nhắn tiếng Trung dưới đây. Thay phần trong ngoặc bằng thông tin của bạn.
+
+> 朱律师您好，我在苏州买了二手房，于［日期］付清房款。合同约定［交房条件或日期］，卖方至今没有交钥匙。目前［已过户／未过户］。我想预约面谈，请问什么时候方便？
+
+[Gửi email đặt lịch](mailto:lawyer_zhu@szoption.com) · [Thông tin liên hệ do văn phòng luật sư công bố](http://www.szoption.com/TeamMember.html?id=430). Buổi tư vấn dùng tiếng Trung phổ thông.
+
 ## Luật sư và thông tin hành nghề
 
 Zhu Hao (朱浩) là luật sư thành viên của Jiangsu Zhize Law Firm (江苏智择律师事务所) tại Tô Châu. Ông xử lý tranh chấp hợp đồng thi công, thanh toán công trình và mua bán, bàn giao nhà ở. Số thẻ hành nghề tại Trung Quốc là **13205201710149809**. Số điện thoại công việc **+86 188 9671 1418**. [Hồ sơ luật sư do tỉnh Giang Tô công bố](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1) · [Thông tin liên hệ của luật sư](https://zhuhaolawyer.com/lawyers/zhu-hao/)
