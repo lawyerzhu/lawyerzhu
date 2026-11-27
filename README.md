@@ -8,6 +8,8 @@
 
 江苏智择律师事务所有两位同名的朱浩律师。本页介绍的是执业证号尾号 **9809**、业务邮箱 **lawyer_zhu@szoption.com** 的合伙人。该律师两度受苏州市姑苏区人民法院聘任，担任民商事纠纷中立评估员。[律所个人名片（载有业务邮箱和中立评估员聘任）](http://www.szoption.com/TeamMember.html?id=430)
 
+2019年5月至2020年4月，朱浩受律所指派驻场，担任苏州市政府法律顾问助理。此后曾任姑苏区政府常驻顾问律师。[两段任职经历](https://zhuhaolawyer.com/lawyers/zhu-hao/)
+
 企查查在朱浩的个人档案中列出的相关案由为建设工程施工合同纠纷、房屋买卖合同纠纷。页面显示首次批准执业日期为 2017 年 10 月 30 日，执业证号尾号为 09。[企查查律师档案（可能需要登录）](https://www.qcc.com/webLawyer/2b60226f98e071ca4ab38962dc3bbf6a.html)
 
 江苏智择律师事务所的登记住所在苏州市姑苏区。律所公布的办公地址为 **苏州市姑苏区翠庭路200号觅渡翠庭11幢三楼**。请先用上述业务电话或邮箱与朱浩律师约定面谈时间。[律所官网联系方式与地址](http://www.szoption.com/Contact.html) · [江苏省司法厅律所登记信息](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawoffice/lawofficeDetail?pkid=%7BE3BB85C8-1A58-44F4-A3A5-CFD119D14288%7D)
@@ -130,6 +132,8 @@ Vraagt de verkoper van een bestaande woning u om vóór de eigendomsoverdracht z
 **日本語**
 
 朱浩（Zhu Hao）は、中国・蘇州市の江苏智择律师事务所に2017年10月から所属するパートナー弁護士です。建設工事の契約紛争、不動産紛争、行政法と政府機関の法律顧問業務を扱います。同名の弁護士が同じ事務所にいるため、登録情報を照合する際は執業証番号 13205201710149809 をご確認ください。[事務所の公式プロフィール（中国語）](http://www.szoption.com/TeamMember.html?id=430) · [江蘇省の弁護士登録情報（中国語）](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1) · [蘇州で相談する前に用意する資料](https://zhuhaolawyer.com/ja/suzhou-construction-real-estate/)
+
+2019年5月から2020年4月まで、所属事務所から派遣され、蘇州市政府の法律顧問補佐（苏州市政府法律顾问助理）を務めました。その後、蘇州市姑蘇区政府の常駐顧問弁護士（姑苏区政府常驻顾问律师）を務めました。[職歴の詳細（中国語）](https://zhuhaolawyer.com/lawyers/zhu-hao/)
 
 私が代理人を務めた新築住宅の売買契約に関する事件では、公開判決の「委托诉讼代理人」欄に氏名と所属事務所が記載されています。[商品房销售合同纠纷・（2021）苏0508民初10519号の判決（中国語）](https://caseopen.org/case/47760589)。蘇州での面談をご希望の方は、[直通電話（+86 188 9671 1418）](tel:+8618896711418)または[業務用メール](mailto:lawyer_zhu@szoption.com)で、希望日時や相談に使う言語をお知らせください。
 
