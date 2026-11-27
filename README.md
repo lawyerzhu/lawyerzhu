@@ -113,6 +113,10 @@ Zhu Hao (朱浩), advogado em Suzhou e sócio do escritório Jiangsu Zhize, atua
 
 Zhu Hao (朱浩) is advocaat en partner bij Jiangsu Zhize Law Firm (江苏智择律师事务所) in Suzhou. Bij een geschil over meerwerk of een onbetaalde bouwtermijn kunt u voor een eerste gesprek de opdracht, de schriftelijke wijzigingen en het betalingsoverzicht meenemen. Zijn naam en beroepsregistratienummer 13205201710149809 zijn te controleren in het [openbare advocatenregister van Jiangsu](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1).
 
+Is de slottermijn van een bouwcontract nog niet betaald? Noteer in het [Chinees-Engelse werkblad voor de eindafrekening](https://zhuhaolawyer.com/services/construction-payments/) afzonderlijk welk bedrag de aannemer heeft opgegeven, hoeveel de opdrachtgever schriftelijk heeft bevestigd en hoeveel er al is betaald. Controleer ook de afgesproken betaaldatum en of een deel als waarborg is ingehouden.
+
+Een [openbare uitspraak over een geschil uit een onderaannemingsovereenkomst voor bouwwerkzaamheden, zaak （2023）苏1283民初6734号](https://caseopen.org/case/145403121), vermeldt Zhu Hao (朱浩) van Jiangsu Zhize als advocaat.
+
 Is uw nieuwbouwwoning in Suzhou te laat opgeleverd of hebt u bij de oplevering gebreken vastgesteld? Noteer voor een gesprek met Zhu Hao de afgesproken opleverdatum, de datum waarop u de uitnodiging voor de oplevering ontving en de datum van de sleuteloverdracht. Neem het koopcontract, het inspectierapport en de foto’s van de gebreken mee. [Toelichting met een Chinees-Engels formulier voor de oplevering](https://zhuhaolawyer.com/services/property-handover/)
 
 Vraagt de verkoper van een bestaande woning u om vóór de eigendomsoverdracht zijn hypotheek af te lossen? Leg dan de betalingsafspraken in het koopcontract naast de hypotheekgegevens en de instructies van de bank. [Toelichting van Zhu Hao over de betaling en overdracht in Suzhou (Chinees)](https://www.toutiao.com/article/7711695816679621155/)
