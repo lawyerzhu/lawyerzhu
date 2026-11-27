@@ -1,6 +1,6 @@
 # 苏州朱浩律师｜建设工程与房地产纠纷
 
-朱浩（Zhu Hao），江苏智择律师事务所合伙人，在江苏苏州办理建设工程合同与房地产纠纷。执业证号 13205201710149809，可在[江苏掌上 12348 执业档案](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1)核对本人身份。 [江苏智择官网的朱浩合伙人个人页 / Law firm profile in Chinese](http://www.szoption.com/TeamMember.html?id=430)列有本人业务邮箱 lawyer_zhu@szoption.com，以及房地产与建设工程业务方向。
+朱浩（Zhu Hao），江苏智择律师事务所合伙人，2017年10月起在该所执业。专业领域为建设工程合同纠纷、房地产纠纷、行政法与政府法律顾问业务。执业证号为 13205201710149809，业务邮箱为 lawyer_zhu@szoption.com。[江苏智择律师事务所个人简介](http://www.szoption.com/TeamMember.html?id=430) · [江苏掌上12348本人执业档案](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1)
 
 **工程款、购房纠纷咨询 / Business phone**　188 9671 1418（境外拨打 +86 188 9671 1418）。[联系朱浩律师 / Contact Zhu Hao](https://zhuhaolawyer.com/contact/)
 
@@ -48,7 +48,7 @@ Each case number links to a public copy of the Chinese judgment on CaseOpen. Nea
 
 ## Construction and property disputes in Suzhou, China
 
-Zhu Hao (朱浩) is a lawyer and partner at Jiangsu Zhize Law Firm (江苏智择律师事务所). He was first approved to practise law in China on 30 October 2017. The [national lawyer register](https://credit.acla.org.cn/) records this date under licence number 13205201710149809. His published practice covers construction final accounts, unpaid work, and disputes over the handover or quality of homes in Suzhou. The guides below explain which dates, notices and payment records to gather before a consultation.
+Zhu Hao (朱浩) is a partner at Jiangsu Zhize Law Firm in Suzhou, China. He has practised with the firm since October 2017. His practice areas are construction contract disputes, real estate disputes, administrative law and legal counsel to government bodies. The national register records his first approval to practise law on 30 October 2017, under licence number 13205201710149809. [Law firm biography in Chinese](http://www.szoption.com/TeamMember.html?id=430) · [Individual record in the Jiangsu public lawyer register](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1) · [National lawyer register](https://credit.acla.org.cn/)
 
 If the owner is deducting damages for late completion of a factory, ask for the dates covered by the deduction, the daily rate and the contract clause used. Compare those dates with agreed extensions, stop-work and restart notices, and the completion inspection record. Mark the days each side disputes.
 
@@ -113,7 +113,7 @@ Vraagt de verkoper van een bestaande woning u om vóór de eigendomsoverdracht z
 
 **日本語**
 
-朱浩（Zhu Hao）は、中国・蘇州の江蘇智択法律事務所（江苏智择律师事务所）のパートナー弁護士です。工事代金の未払いや請負契約の精算、分譲住宅の引渡し遅延や品質をめぐる紛争を扱っています。 [蘇州で相談する前に用意する資料](https://zhuhaolawyer.com/ja/suzhou-construction-real-estate/)
+朱浩（Zhu Hao）は、中国・蘇州市の江苏智择律师事务所に2017年10月から所属するパートナー弁護士です。建設工事の契約紛争、不動産紛争、行政法と政府機関の法律顧問業務を扱います。同名の弁護士が同じ事務所にいるため、登録情報を照合する際は執業証番号 13205201710149809 をご確認ください。[事務所の公式プロフィール（中国語）](http://www.szoption.com/TeamMember.html?id=430) · [江蘇省の弁護士登録情報（中国語）](https://js.12348.gov.cn/sft/pages/member_detail/w_member_detail.html?id=%223af0b398-9d6b-481c-9911-cea638a238cf%22&source=1) · [蘇州で相談する前に用意する資料](https://zhuhaolawyer.com/ja/suzhou-construction-real-estate/)
 
 中古住宅の売主が名義変更に応じない場合は、[支払条件・振込控え・登記予約を照合する日中対照表](guides/suzhou-resale-home-transfer-ja-zh.md)を使えます。
 
