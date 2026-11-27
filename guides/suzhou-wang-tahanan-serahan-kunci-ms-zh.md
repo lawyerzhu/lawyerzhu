@@ -26,8 +26,8 @@ Zhu Hao mengesahkan bahawa beliau mengendalikan tiga kes berikut. Nombor kes dik
 
 | Jenis pertikaian | 案由 | Nombor kes |
 |---|---|---|
-| Kontrak jual beli rumah | 房屋买卖合同纠纷 | （2021）苏0508民初10679号 |
-| Jual beli rumah yang dijual oleh pemaju | 商品房销售合同纠纷 | （2021）苏0508民初10519号 |
-| Subkontrak kerja pembinaan | 建设工程分包合同纠纷 | （2023）苏1283民初6734号 |
+| Kontrak jual beli rumah | 房屋买卖合同纠纷 | [（2021）苏0508民初10679号](https://caseopen.org/case/48159129) |
+| Jual beli rumah yang dijual oleh pemaju | 商品房销售合同纠纷 | [（2021）苏0508民初10519号](https://caseopen.org/case/47760589) |
+| Subkontrak kerja pembinaan | 建设工程分包合同纠纷 | [（2023）苏1283民初6734号](https://caseopen.org/case/145403121) |
 
-[Profil peribadi Zhu Hao dan rekod kes dalam bahasa Cina](https://zhuhaolawyer.com/lawyers/zhu-hao/#case-references) · [Profil amalan dalam bahasa Cina dan Inggeris (PDF)](https://zhuhaolawyer.com/downloads/suzhou-zhu-hao-lawyer-profile.pdf)
+[Profil amalan dan maklumat hubungan dalam bahasa Melayu](https://zhuhaolawyer.com/ms/suzhou-construction-real-estate/#hubungi) · [Profil peribadi Zhu Hao dan rekod kes dalam bahasa Cina](https://zhuhaolawyer.com/lawyers/zhu-hao/#case-references) · [Profil amalan dalam bahasa Cina dan Inggeris (PDF)](https://zhuhaolawyer.com/downloads/suzhou-zhu-hao-lawyer-profile.pdf)

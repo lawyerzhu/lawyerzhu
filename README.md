@@ -89,7 +89,7 @@ Suzhou’da inşaat işinin son ödemesini bekliyorsanız, hakedişte kabul edil
 
 **Bahasa Melayu**
 
-Zhu Hao (朱浩), peguam di Jiangsu Zhize Law Firm (江苏智择律师事务所), Suzhou, menyediakan contoh mesej dalam bahasa Melayu dan Mandarin untuk meminta pemulangan wang tahanan projek atau merekodkan serahan kunci rumah. [Panduan, nombor kes dan maklumat hubungan](guides/suzhou-wang-tahanan-serahan-kunci-ms-zh.md)
+Zhu Hao (朱浩), peguam di Jiangsu Zhize Law Firm (江苏智择律师事务所), Suzhou, menyediakan contoh mesej dalam bahasa Melayu dan Mandarin untuk meminta pemulangan wang tahanan projek atau merekodkan serahan kunci rumah. [Profil Zhu Hao dan cara membuat janji temu](https://zhuhaolawyer.com/ms/suzhou-construction-real-estate/#hubungi) · [Contoh mesej untuk kontraktor dan pembeli rumah](guides/suzhou-wang-tahanan-serahan-kunci-ms-zh.md)
 
 **Bahasa Indonesia**
 
