@@ -179,7 +179,7 @@ Zhu Hao (朱浩) ist Rechtsanwalt und Partner der Kanzlei Jiangsu Zhize in Suzho
 
 **Español**
 
-Zhu Hao (朱浩), abogado y socio del despacho Jiangsu Zhize en Suzhou, lleva asuntos de impago y liquidación de obras, así como disputas por retrasos en la entrega o defectos en viviendas nuevas. [Documentación para una consulta en Suzhou](https://zhuhaolawyer.com/es/suzhou-construction-real-estate/)
+Zhu Hao (朱浩), abogado y socio del despacho Jiangsu Zhize en Suzhou, lleva asuntos de impago y liquidación de obras, así como disputas por retrasos en la entrega o defectos en viviendas nuevas. Puede preparar la cita con la [ficha español–chino sobre el cobro de una obra o la compraventa de vivienda](guides/suzhou-cobro-obra-compraventa-vivienda-es-zh.md). [Perfil profesional y documentación en español](https://zhuhaolawyer.com/es/suzhou-construction-real-estate/)
 
 **Tiếng Việt**
 
