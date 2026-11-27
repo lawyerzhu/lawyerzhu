@@ -109,6 +109,8 @@ Jika tagihan proyek di Suzhou belum lunas, pisahkan sisa pembayaran pekerjaan da
 
 Zhu Hao (朱浩) jest prawnikiem w Suzhou w Chinach. W sporach o roboty dodatkowe pomaga ustalić, które ilości i ceny strony uzgodniły. W sprawach dotyczących mieszkań analizuje m.in. termin wydania lokalu i zgłoszone usterki. Konsultacje prowadzi po chińsku. [Profil po polsku z numerem uprawnień, danymi kontaktowymi i arkuszami do przygotowania dokumentów](https://zhuhaolawyer.com/pl/suzhou-construction-real-estate/)
 
+Według [biogramu opublikowanego przez jego kancelarię](http://www.szoption.com/TeamMember.html?id=430) Zhu Hao pełni funkcję sekretarza komisji ds. budownictwa i nieruchomości przy stowarzyszeniu prawników w Suzhou (苏州市律师协会建筑与房地产专业委员会秘书). Od maja 2019 r. do kwietnia 2020 r. był asystentem doradcy prawnego władz miasta Suzhou. Później pracował na miejscu jako prawnik doradzający władzom dzielnicy Gusu (姑苏区政府常驻顾问律师). [Opis obu funkcji po chińsku](https://zhuhaolawyer.com/lawyers/zhu-hao/)
+
 **Português**
 
 Zhu Hao (朱浩), advogado em Suzhou e sócio do escritório Jiangsu Zhize, atua em litígios sobre contratos de construção e compra e venda de imóveis. Ao receber uma cobrança por diferença de área na entrega de um apartamento, o comprador pode comparar as medidas usando os mesmos termos que aparecem no contrato chinês. [Ficha em português e chinês para conferir a área, o preço e os documentos do apartamento](guides/suzhou-area-apartamento-pt-zh.md) · [Saldo de obra não pago e infiltrações após a entrega do imóvel](https://zhuhaolawyer.com/pt/suzhou-construction-real-estate/)
