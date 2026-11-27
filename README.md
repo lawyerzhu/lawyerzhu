@@ -44,6 +44,8 @@ Each row links to two copies of the judgment in Chinese. To find the entry for c
 
 二手房买卖遇到卖方迟迟不配合过户，可以先把尾款支付条件、已付款和双方约定的递件日期列在一起。[苏州二手房过户资料对照表（日中双语）](guides/suzhou-resale-home-transfer-ja-zh.md)
 
+**二手房已经过户，原房主的户口还在怎么办？** 苏州市公安局在2025年1月16日的公告中说明，房屋因买卖已依法完成所有权转移登记的，现房屋所有权人可以申请公安机关将原登记人员户口迁出。可先向房屋所在地公安机关核实办理材料。面谈时带上产权登记材料、买卖合同中约定迁户期限的条款，以及催告和回复记录，方便律师核对卖方的合同义务。[苏州市公安局公告原文](https://gonganju.suzhou.gov.cn/gaj/gggs/202501/1143194cc0f14c58a4d02fe59ced7ffb.shtml)
+
 商铺出租前，可把交付、免租、物业费和计租的起算日分别写清，再核对装修及转租的同意条件。[苏州商铺出租前的合同核对表（中日双语，可下载填写）](guides/suzhou-shop-lease-ja-zh.md)
 
 第一次沟通时，可以把“合同怎么约定—实际怎么履行—对方是否确认—争议金额如何计算”列成一张表，标明材料缺口。这比单独提供一个争议总额更便于判断问题。
@@ -59,6 +61,8 @@ For a delayed apartment handover in Suzhou, bring the contract, the developer’
 If the apartment is ready but the underground parking space is still unavailable, check the handover date in the parking agreement. Record when you were offered temporary parking and when you first had access to the numbered space you bought. In a public reply dated 4 August 2025, the Wujiang housing authority recorded that surface parking was available while the garage was being inspected. The contractual handover date for those spaces was 30 September. [Read the authority’s reply in Chinese](https://liuyan.people.com.cn/threads/content/?tid=23373843)
 
 If you already have the keys but are waiting for title registration, you can ask the developer for a written update specific to your unit. [English checklist and Chinese enquiry template for Suzhou buyers](guides/suzhou-new-home-registration-ja-zh.md#after-handover-how-can-a-suzhou-buyer-check-why-the-title-is-still-pending)
+
+**The title is in my name, but the seller’s household registration (hukou) is still at the apartment. What can I do?** In a notice dated 16 January 2025, the Suzhou Public Security Bureau explained that once a sale and transfer of ownership have been registered, the new owner can apply to the police to have the former occupant’s household registration moved. Ask the police serving the property which documents they currently require. For a meeting with a lawyer, bring the ownership record, any contract clause setting a deadline for the seller to move their registration, and your dated correspondence. [Suzhou Public Security Bureau notice (Chinese)](https://gonganju.suzhou.gov.cn/gaj/gggs/202501/1143194cc0f14c58a4d02fe59ced7ffb.shtml)
 
 The Jiangsu Department of Justice lists the firm as JIANGSU ZHIZE LAW FIRM, with its registered office in Gusu District, Suzhou. The firm lists its office at **3rd Floor, Building 11, Midu Cuiting, 200 Cuiting Road, Gusu District, Suzhou**. For maps or a taxi, use the Chinese address above. Call or email Zhu Hao to arrange an appointment. [Office address on the firm’s website (Chinese)](http://www.szoption.com/Contact.html). Its register lists Zhu Hao under practising certificate No. 13205201710149809. [Official firm register](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawoffice/lawofficeDetail?pkid=%7BE3BB85C8-1A58-44F4-A3A5-CFD119D14288%7D) · [Lawyer’s registration record](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawyer/lawyerDetail?lawyerid=3af0b398-9d6b-481c-9911-cea638a238cf)
 
