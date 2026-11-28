@@ -26,9 +26,9 @@ Each row links to two copies of the judgment in Chinese. To find the entry for c
 
 | 案由 / Dispute | 案号 / CaseOpen | 判决全文 / Wikisource |
 | --- | --- | --- |
-| 商品房销售合同纠纷 / Sale of property by a developer | [（2021）苏0508民初10519号](https://caseopen.org/case/47760589) | [全文 / Full text](https://zh.wikisource.org/w/index.php?oldid=10014674) |
-| 房屋买卖合同纠纷 / Property sale contract | [（2021）苏0508民初10679号](https://caseopen.org/case/48159129) | [全文 / Full text](https://zh.wikisource.org/w/index.php?oldid=10436546) |
-| 建设工程分包合同纠纷 / Construction subcontract | [（2023）苏1283民初6734号](https://caseopen.org/case/145403121) | [全文 / Full text](https://zh.wikisource.org/w/index.php?oldid=8897500) |
+| 商品房销售合同纠纷 / Sale of property by a developer | [（2021）苏0508民初10519号](https://caseopen.org/case/47760589) | [全文 / Full text](https://zh.wikisource.org/zh-hans/%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%91%E8%8B%8F%E5%8C%BA%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%EF%BC%882021%EF%BC%89%E8%8B%8F0508%E6%B0%91%E5%88%9D10519%E5%8F%B7%E6%B0%91%E4%BA%8B%E5%88%A4%E5%86%B3%E4%B9%A6) |
+| 房屋买卖合同纠纷 / Property sale contract | [（2021）苏0508民初10679号](https://caseopen.org/case/48159129) | [全文 / Full text](https://zh.wikisource.org/zh-hans/%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%91%E8%8B%8F%E5%8C%BA%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%EF%BC%882021%EF%BC%89%E8%8B%8F0508%E6%B0%91%E5%88%9D10679%E5%8F%B7%E6%B0%91%E4%BA%8B%E5%88%A4%E5%86%B3%E4%B9%A6) |
+| 建设工程分包合同纠纷 / Construction subcontract | [（2023）苏1283民初6734号](https://caseopen.org/case/145403121) | [全文 / Full text](https://zh.wikisource.org/zh-hans/%E6%B1%9F%E8%8B%8F%E7%9C%81%E6%B3%B0%E5%85%B4%E5%B8%82%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%EF%BC%882023%EF%BC%89%E8%8B%8F1283%E6%B0%91%E5%88%9D6734%E5%8F%B7%E6%B0%91%E4%BA%8B%E5%88%A4%E5%86%B3%E4%B9%A6) |
 
 ## 建设工程与房地产：具体可以咨询什么
 
@@ -149,7 +149,7 @@ Vraagt de verkoper van een bestaande woning u om vóór de eigendomsoverdracht z
 
 工場の施工品質をめぐって発注者と施工会社の見解が分かれたときは、[現場記録の記入例と日中対訳の記録用紙](guides/suzhou-factory-defect-log-zh-ja.md)をご利用ください。
 
-**蘇州の工場建設で、最終精算の金額が合わないとき。** たとえば、施工会社の精算書は120万元、発注者が書面で認めた金額は108万元、入金は100万元だったとします。面談では、確認済みの金額のうち未入金の8万元について支払期限や留保金の条項を確認し、残る12万元については、どの工事項目の数量・単価に争いがあるかを整理します。朱浩が代理した建設工事の下請契約をめぐる事件では、公開判決の「委托诉讼代理人」欄で氏名と事務所を確認できます。[（2023）苏1283民初6734号の判決全文（中国語）](https://zh.wikisource.org/w/index.php?oldid=8897500)
+**蘇州の工場建設で、最終精算の金額が合わないとき。** たとえば、施工会社の精算書は120万元、発注者が書面で認めた金額は108万元、入金は100万元だったとします。面談では、確認済みの金額のうち未入金の8万元について支払期限や留保金の条項を確認し、残る12万元については、どの工事項目の数量・単価に争いがあるかを整理します。朱浩が代理した建設工事の下請契約をめぐる事件では、公開判決の「委托诉讼代理人」欄で氏名と事務所を確認できます。[（2023）苏1283民初6734号の判決全文（中国語）](https://zh.wikisource.org/zh-hans/%E6%B1%9F%E8%8B%8F%E7%9C%81%E6%B3%B0%E5%85%B4%E5%B8%82%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%EF%BC%882023%EF%BC%89%E8%8B%8F1283%E6%B0%91%E5%88%9D6734%E5%8F%B7%E6%B0%91%E4%BA%8B%E5%88%A4%E5%86%B3%E4%B9%A6)
 
 蘇州で店舗を貸す前に、鍵の引渡日、賃料と管理費の起算日、内装や転貸の承諾条件を整理できる[日中対訳の店舗賃貸借チェックシート](guides/suzhou-shop-lease-ja-zh.md)を用意しました。
 
