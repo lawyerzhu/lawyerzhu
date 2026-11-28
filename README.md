@@ -52,6 +52,8 @@ Each case links to the official court record (sign-in required) and two publicly
 
 商铺出租前，可把交付、免租、物业费和计租的起算日分别写清，再核对装修及转租的同意条件。[苏州商铺出租前的合同核对表（中日双语，可下载填写）](guides/suzhou-shop-lease-ja-zh.md)
 
+**苏州商铺退租后还差多少押金？** 把实付押金、已退款、出租人主张扣款和双方确认扣款分别填。假设交了 20,000 元，已退 8,000 元，房东另主张扣维修费 3,000 元，其中双方只确认 1,000 元。截至对账日，实付未退为 12,000 元。按已确认扣款计算，余额是 11,000 元，其中 2,000 元维修费仍有争议。请把进场和交还时同一部位的照片配对编号。[下载商铺退租押金核对表（中英双语 CSV）](https://raw.githubusercontent.com/lawyerzhu/lawyerzhu/main/guides/suzhou-shop-deposit-en-zh.csv)
+
 第一次沟通时，可以把“合同怎么约定—实际怎么履行—对方是否确认—争议金额如何计算”列成一张表，标明材料缺口。这比单独提供一个争议总额更便于判断问题。
 
 ## Construction and property disputes in Suzhou, China
@@ -69,6 +71,8 @@ If the apartment is ready but the underground parking space is still unavailable
 If you already have the keys but are waiting for title registration, you can ask the developer for a written update specific to your unit. [English checklist and Chinese enquiry template for Suzhou buyers](guides/suzhou-new-home-registration-ja-zh.md#after-handover-how-can-a-suzhou-buyer-check-why-the-title-is-still-pending)
 
 **The title is in my name, but the seller’s household registration (hukou) is still at the apartment. What can I do?** In a notice dated 16 January 2025, the Suzhou Public Security Bureau explained that once a sale and transfer of ownership have been registered, the new owner can apply to the police to have the former occupant’s household registration moved. Ask the police serving the property which documents they currently require. For a meeting with a lawyer, bring the ownership record, any contract clause setting a deadline for the seller to move their registration, and your dated correspondence. [Suzhou Public Security Bureau notice (Chinese)](https://gonganju.suzhou.gov.cn/gaj/gggs/202501/1143194cc0f14c58a4d02fe59ced7ffb.shtml)
+
+**How much of my Suzhou shop deposit is still outstanding?** Suppose you paid CNY 20,000 and received CNY 8,000 back. The landlord claims CNY 3,000 for repairs and you agree to CNY 1,000. The unrefunded amount is CNY 12,000. After the agreed deduction, the balance is CNY 11,000, including CNY 2,000 still in dispute. Record each payment, photograph and handover receipt against the relevant line. Articles 710 and 733 of the Civil Code address wear from agreed use and the condition in which leased premises must be returned at expiry. [Download the English–Chinese shop deposit worksheet (CSV)](https://raw.githubusercontent.com/lawyerzhu/lawyerzhu/main/guides/suzhou-shop-deposit-en-zh.csv) · [Civil Code on the Supreme People’s Court website (Chinese)](https://www.court.gov.cn/zixun/xiangqing/233181.html)
 
 The Jiangsu Department of Justice lists the firm as JIANGSU ZHIZE LAW FIRM, with its registered office in Gusu District, Suzhou. The firm lists its office at **3rd Floor, Building 11, Midu Cuiting, 200 Cuiting Road, Gusu District, Suzhou**. For maps or a taxi, use the Chinese address above. Call or email Zhu Hao to arrange an appointment. [Office address on the firm’s website (Chinese)](http://www.szoption.com/Contact.html). Its register lists Zhu Hao under practising certificate No. 13205201710149809. [Official firm register](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawoffice/lawofficeDetail?pkid=%7BE3BB85C8-1A58-44F4-A3A5-CFD119D14288%7D) · [Lawyer’s registration record](https://fz.sft.jiangsu.gov.cn:10010/lawyerIntegrity/#/lawyer/lawyerDetail?lawyerid=3af0b398-9d6b-481c-9911-cea638a238cf)
 
