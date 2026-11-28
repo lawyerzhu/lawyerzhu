@@ -46,7 +46,7 @@ Each case links to the official court record (sign-in required) and two publicly
 
 在苏州买的新房已经交付，开发商一直未协助办理不动产权证，可以按楼幢核对首次登记进度，再核对购房人名下转移登记缺少的材料。文章里列了可以向开发商追问的三个问题。[朱浩律师的头条原文](https://www.toutiao.com/article/7711967086549729819/) · [办证进度书面询问模板](guides/suzhou-new-home-registration-ja-zh.md)
 
-二手房买卖遇到卖方迟迟不配合过户，可以先把尾款支付条件、已付款和双方约定的递件日期列在一起。[苏州二手房过户资料对照表（日中双语）](guides/suzhou-resale-home-transfer-ja-zh.md)
+二手房买卖遇到卖方迟迟不配合过户，可以先把尾款支付条件、已付款和双方约定的递件日期列在一起。约定收到尾款后交房的，分别记录款项到账、登记申请受理、登记完成和实际交钥匙的日期。[下载苏州二手房过户与交房履行记录表（Word，可填写）](https://raw.githubusercontent.com/lawyerzhu/lawyerzhu/main/guides/suzhou-resale-transfer-handover-zh.docx) · [苏州二手房过户资料对照表（日中双语）](guides/suzhou-resale-home-transfer-ja-zh.md)
 
 **二手房已经过户，原房主的户口还在怎么办？** 苏州市公安局在2025年1月16日的公告中说明，房屋因买卖已依法完成所有权转移登记的，现房屋所有权人可以申请公安机关将原登记人员户口迁出。可先向房屋所在地公安机关核实办理材料。面谈时带上产权登记材料、买卖合同中约定迁户期限的条款，以及催告和回复记录，方便律师核对卖方的合同义务。[苏州市公安局公告原文](https://gonganju.suzhou.gov.cn/gaj/gggs/202501/1143194cc0f14c58a4d02fe59ced7ffb.shtml)
 
