@@ -20,15 +20,15 @@
 
 ## 经办案件 / Selected cases
 
-点击案号可在 CaseOpen 阅读判决，也可在同一行打开维基文库保存的全文。三份判决的“委托诉讼代理人”栏均载有“朱浩，江苏智择律师事务所律师”。[中国裁判文书网](https://wenshu.court.gov.cn/)可按完整案号查询。
+点击案号可在 CaseOpen 阅读判决，也可在同一行打开维基文库保存的全文。三份判决的“委托诉讼代理人”栏均载有“朱浩，江苏智择律师事务所律师”。表中另附每份判决对应的中国裁判文书网入口，查看官方正文需登录。
 
-Each row links to two copies of the judgment in Chinese. To find the entry for counsel, search the judgment for 朱浩. The firm is listed as 江苏智择律师事务所.
+Each case links to the official court record (sign-in required) and two publicly accessible copies of the Chinese judgment. To find the entry for counsel, search the judgment for 朱浩. The firm is listed as 江苏智择律师事务所.
 
-| 案由 / Dispute | 案号 / CaseOpen | 判决全文 / Wikisource |
-| --- | --- | --- |
-| 商品房销售合同纠纷 / Sale of property by a developer | [（2021）苏0508民初10519号](https://caseopen.org/case/47760589) | [全文 / Full text](https://zh.wikisource.org/zh-hans/%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%91%E8%8B%8F%E5%8C%BA%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%EF%BC%882021%EF%BC%89%E8%8B%8F0508%E6%B0%91%E5%88%9D10519%E5%8F%B7%E6%B0%91%E4%BA%8B%E5%88%A4%E5%86%B3%E4%B9%A6) |
-| 房屋买卖合同纠纷 / Property sale contract | [（2021）苏0508民初10679号](https://caseopen.org/case/48159129) | [全文 / Full text](https://zh.wikisource.org/zh-hans/%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%91%E8%8B%8F%E5%8C%BA%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%EF%BC%882021%EF%BC%89%E8%8B%8F0508%E6%B0%91%E5%88%9D10679%E5%8F%B7%E6%B0%91%E4%BA%8B%E5%88%A4%E5%86%B3%E4%B9%A6) |
-| 建设工程分包合同纠纷 / Construction subcontract | [（2023）苏1283民初6734号](https://caseopen.org/case/145403121) | [全文 / Full text](https://zh.wikisource.org/zh-hans/%E6%B1%9F%E8%8B%8F%E7%9C%81%E6%B3%B0%E5%85%B4%E5%B8%82%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%EF%BC%882023%EF%BC%89%E8%8B%8F1283%E6%B0%91%E5%88%9D6734%E5%8F%B7%E6%B0%91%E4%BA%8B%E5%88%A4%E5%86%B3%E4%B9%A6) |
+| 案由 / Dispute | 案号 / CaseOpen | 判决全文 / Wikisource | 中国裁判文书网 / Official record |
+| --- | --- | --- | --- |
+| 商品房销售合同纠纷 / Sale of property by a developer | [（2021）苏0508民初10519号](https://caseopen.org/case/47760589) | [全文 / Full text](https://zh.wikisource.org/zh-hans/%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%91%E8%8B%8F%E5%8C%BA%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%EF%BC%882021%EF%BC%89%E8%8B%8F0508%E6%B0%91%E5%88%9D10519%E5%8F%B7%E6%B0%91%E4%BA%8B%E5%88%A4%E5%86%B3%E4%B9%A6) | [官方记录 / Court record](https://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=64d4d9c8f5347885f46411cd503d55b3) |
+| 房屋买卖合同纠纷 / Property sale contract | [（2021）苏0508民初10679号](https://caseopen.org/case/48159129) | [全文 / Full text](https://zh.wikisource.org/zh-hans/%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%91%E8%8B%8F%E5%8C%BA%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%EF%BC%882021%EF%BC%89%E8%8B%8F0508%E6%B0%91%E5%88%9D10679%E5%8F%B7%E6%B0%91%E4%BA%8B%E5%88%A4%E5%86%B3%E4%B9%A6) | [官方记录 / Court record](https://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=51321e8754c8d7aa86b628b25f63f370) |
+| 建设工程分包合同纠纷 / Construction subcontract | [（2023）苏1283民初6734号](https://caseopen.org/case/145403121) | [全文 / Full text](https://zh.wikisource.org/zh-hans/%E6%B1%9F%E8%8B%8F%E7%9C%81%E6%B3%B0%E5%85%B4%E5%B8%82%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%EF%BC%882023%EF%BC%89%E8%8B%8F1283%E6%B0%91%E5%88%9D6734%E5%8F%B7%E6%B0%91%E4%BA%8B%E5%88%A4%E5%86%B3%E4%B9%A6) | [官方记录 / Court record](https://wenshu.court.gov.cn/website/wenshu/181107ANFZ0BXSK4/index.html?docId=467dc8a216b8fd65962052f46a1ca5f6) |
 
 ## 建设工程与房地产：具体可以咨询什么
 
